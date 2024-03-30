@@ -11,11 +11,11 @@ params = {
     "include_dmc_dmr": "true",
     "include_sponsored": "true",
     "new_search": "false",
-    "offset": "0",
+    "offset": "24",
     "page": "/c/4xq89",
     "platform": "desktop",
-    "pricing_store_id": "1771",
-    "store_ids": "1771",
+    "pricing_store_id": "1777",
+    "store_ids": "1777",
     "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     "visitor_id": "018E80561A130201ABA6237C959E4080",
     "zip": "52404"
@@ -34,5 +34,26 @@ headers = {
 
 response = requests.get(url, headers=headers, params=params)
 
+products_data = response.json()
+
+num_prods = products_data["data"]["search"]["search_response"]["metadata"]["total_results"]
+
+product = products_data["data"]["search"]["products"][0]
+product_title = product["item"]["product_description"]["title"]
+product_image = product["item"]["enrichment"]["images"]["primary_image_url"]
+product_id = product["tcin"]
+curr_price = product["price"]["current_retail"]
+retail_price = product["price"]["reg_retail"]
+product_url = product["item"]["enrichment"]["buy_url"]
+
+print(f"Number of products: {num_prods}\n")
+print(f"Product Title: {product_title}\n"
+      f"Product Image URL: {product_image}\n"
+      f"Product ID: {product_id}\n"
+      f"Current Price: {curr_price}\n"
+      f"Retail Price: {retail_price}\n"
+      f"Product Url: {product_url}")
+
+
 with open("file.json", "w") as file:
-    json.dump(response.json(), file, indent=4)
+    json.dump(products_data["data"]["search"]["products"][0], file, indent=4)

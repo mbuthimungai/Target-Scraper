@@ -8,11 +8,12 @@ class Target:
         self.user_input = user_input
     
     async def extract_products(self) -> dict: 
-        
-        return 
+        content = await Response(self.user_input).content()
+        products_data = content.json()
+        return products_data
         ...
     async def extract_user_agents(self) -> None:
-        content = await Response(self.user_input).content()
+        content = await Response(self.user_input).content(isUserAgent=True)
         
         soup = BeautifulSoup(content, "html.parser")        
         

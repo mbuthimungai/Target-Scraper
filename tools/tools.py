@@ -43,7 +43,7 @@ class Response:
         
     
             
-    async def content(self, max_retries: int = 3) -> str:
+    async def content(self, isUserAgent=False, max_retries: int = 3, ) -> str:
         """
         Fetch content from a URL with retries. After encountering specific errors,
         pause for a long duration before retrying.
@@ -62,7 +62,7 @@ class Response:
                     async with async_timeout.timeout(10):  # Timeout for each request
                         async with session.get(self.base_url,
                                                headers=headers, 
-                                               ) as response:
+                                               params=params) as response:
                             response.raise_for_status()  # Raises error for 4xx/5xx responses
                             return await response.text()  # Correctly await the text of the response
                 except (ClientConnectionError, ClientResponseError) as e:
@@ -97,7 +97,7 @@ def user_agents():
     Returns:
         -A string representing a ranom user agent.
     """
-    with open('tool//user-agents.txt') as f:
+    with open('tools//user-agents.txt') as f:
         agents = f.read().split("\n")
         return random_values(agents)
     
