@@ -1,0 +1,53 @@
+version: '3.7'
+
+services:
+  # cookie_miner:
+  #   build: 
+  #     context: .
+  #   command: python ./mine_cookies.py
+  #   volumes:
+  #     - .:/app        
+  #   env_file:
+  #     - ./.env
+  
+  product_scraper:
+    build: 
+      context: .
+    # command: /bin/bash -c "sleep 120 && python ./discordMain.py"
+    command: python ./discordMain.py
+    volumes:
+      - .:/app    
+    env_file:
+      - ./.env
+  #   depends_on:
+  #     - mongo
+  
+  # mongo:
+  #   image: mongo
+  #   restart: always
+  #   environment:
+  #     MONGO_INITDB_ROOT_USERNAME: root
+  #     MONGO_INITDB_ROOT_PASSWORD: example  
+  
+  # mongo-express:
+  #   image: mongo-express
+  #   restart: always
+  #   ports:
+  #     - 8081:8081
+  #   environment:
+  #     ME_CONFIG_MONGODB_ADMINUSERNAME: melbourne1798
+  #     ME_CONFIG_MONGODB_ADMINPASSWORD: 4DXMyIXg482Fu5rR
+  #     ME_CONFIG_MONGODB_URL: mongodb://melbourne1798:4DXMyIXg482Fu5rR@cluster0-shard-00-00.z2ovk6z.mongodb.net:27017,cluster0-shard-00-01.z2ovk6z.mongodb.net:27017,cluster0-shard-00-02.z2ovk6z.mongodb.net:27017/mydatabase?ssl=true&replicaSet=atlas-xyz-shard-0&authSource=admin&retryWrites=true&w=majority
+  # mongo-express:
+  #   image: mongo-express
+  #   restart: always
+  #   ports:
+  #     - 8081:8081
+  #   environment:
+  #     ME_CONFIG_MONGODB_ADMINUSERNAME: root
+  #     ME_CONFIG_MONGODB_ADMINPASSWORD: example
+  #     ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+  #   depends_on:
+  #     - mongo
+      
+

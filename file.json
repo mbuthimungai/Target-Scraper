@@ -1,118 +1,30 @@
-{
-    "__typename": "ProductSummary",
-    "tcin": "77361471",
-    "original_tcin": "77361471",
-    "item": {
-        "relationship_type": "Variation Child",
-        "relationship_type_code": "VC",
-        "merchandise_classification": {
-            "class_id": 17,
-            "department_id": 83
-        },
-        "eligibility_rules": {
-            "add_on": {
-                "is_active": false
-            },
-            "scheduled_delivery": {
-                "is_active": true
-            }
-        },
-        "enrichment": {
-            "buy_url": "https://www.target.com/p/milk-bone-soft-38-chewy-chicken-flavor-dog-treats-25oz/-/A-77361471",
-            "images": {
-                "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_d411e3aa-6253-4109-91df-c8ff1a4083dd",
-                "alternate_image_urls": [
-                    "https://target.scene7.com/is/image/Target/GUEST_1d82ad73-35d4-4546-892c-0b1ba5ef4062",
-                    "https://target.scene7.com/is/image/Target/GUEST_75fe8ed0-5858-486e-9b43-ce170108df1f",
-                    "https://target.scene7.com/is/image/Target/GUEST_249d6ec7-4929-4c5e-9484-b0b0fbfb824a",
-                    "https://target.scene7.com/is/image/Target/GUEST_bba8a877-25a6-4da7-b0f4-542af548c055",
-                    "https://target.scene7.com/is/image/Target/GUEST_40f8f4fc-a887-45ae-9814-54dbddf714c2",
-                    "https://target.scene7.com/is/image/Target/GUEST_c92e34f0-8d97-4199-b87e-3ce0218fe135",
-                    "https://target.scene7.com/is/image/Target/GUEST_04cf4e4c-f1aa-44cf-8379-5b88e748355f"
-                ]
-            },
-            "videos": [
-                {
-                    "is_list_page_eligible": false,
-                    "video_files": [
-                        {
-                            "mime_type": "video/mp4",
-                            "video_url": "https://target.scene7.com/is/content/Target/GUEST_e692de0f-1dba-4db4-9b75-f26ee30a12aa_Flash9_Autox720p_2600k"
-                        }
-                    ]
-                }
-            ]
-        },
-        "compliance": {},
-        "dpci": "083-17-6705",
-        "cart_add_on_threshold": 35.0,
-        "product_description": {
-            "title": "Milk-Bone Soft &#38; Chewy Chicken Flavor Dog Treats - 25oz",
-            "bullet_descriptions": [
-                "<B>Pet Caution Statement:</B> Not for human consumption",
-                "<B>Intended Pet Type:</B> Dog",
-                "<B>Storage Instructions:</B> Store in Dry Place",
-                "<B>State of Readiness:</B> Ready to Eat",
-                "<B>Package Quantity:</B> 1",
-                "<B>Pet Lifestage:</B> All Ages",
-                "<B>Breed size:</B> All Sizes",
-                "<B>Net weight:</B> 25 Ounces",
-                "<B>Pets subtype:</B> Chewy Treats",
-                "<B>Country of Origin:</B> United States"
-            ],
-            "soft_bullets": {
-                "bullets": [
-                    "Contains one (1) 25-ounce container of Milk-Bone Soft & Chewy Chicken Recipe With Chicken Breast dog treats",
-                    "Soft and chewy dog treats made with real chicken breast",
-                    "Fortified with 12 vitamins and minerals",
-                    "Great for dogs of all sizes",
-                    "Loved since 1908"
-                ]
-            }
-        },
-        "product_classification": {
-            "item_type": {
-                "name": "Pet Treats",
-                "type": "276714"
-            }
-        },
-        "product_vendors": [
-            {
-                "vendor_name": "SMUCKERS JM CO",
-                "id": "4320786"
-            }
-        ],
-        "fulfillment": {},
-        "primary_brand": {
-            "canonical_url": "/b/milk-bone/-/N-4tfxt",
-            "linking_id": "4tfxt",
-            "name": "Milk-Bone"
-        }
-    },
-    "parent": {
-        "__typename": "ParentProductSummary",
-        "tcin": "80254969",
+[
+    {
+        "__typename": "ProductSummary",
+        "tcin": "83376973",
+        "original_tcin": "83376973",
         "item": {
-            "relationship_type": "Variation Parent",
-            "relationship_type_code": "VAP",
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
             "merchandise_classification": {
-                "class_id": 17,
-                "department_id": 83
+                "class_id": 2,
+                "department_id": 270
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
             },
             "enrichment": {
-                "buy_url": "https://www.target.com/p/milk-bone-soft-chewy-chicken-flavor-dog-treats/-/A-80254969",
+                "buy_url": "https://www.target.com/p/ayo-frozen-chicken-yassa-8oz/-/A-83376973",
                 "images": {
-                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_116cf1c6-3bdb-4dc3-a1b8-acbc2d76117d",
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_275fe54f-24cb-4024-9072-7d33416989a7",
                     "alternate_image_urls": [
-                        "https://target.scene7.com/is/image/Target/GUEST_4bd61728-f97c-44be-9880-84cf1aa98380",
-                        "https://target.scene7.com/is/image/Target/GUEST_8be76ee1-7516-46c8-afce-49c3ba0073f2",
-                        "https://target.scene7.com/is/image/Target/GUEST_51962c3c-2daa-4023-b55a-9ddcc15d76b8",
-                        "https://target.scene7.com/is/image/Target/GUEST_5baa9319-4927-41b1-803a-63eb93c74405",
-                        "https://target.scene7.com/is/image/Target/GUEST_99f332f4-ca1c-488f-83cf-9f5741af1513",
-                        "https://target.scene7.com/is/image/Target/GUEST_944d52ab-ec90-4edf-a1bf-96851b8731f8",
-                        "https://target.scene7.com/is/image/Target/GUEST_fdc614b8-b791-455c-b995-2975c6747e49",
-                        "https://target.scene7.com/is/image/Target/GUEST_585a5088-1f9b-43f0-a897-a407c25a9097",
-                        "https://target.scene7.com/is/image/Target/GUEST_df1bdf33-d4d9-4f02-a8c1-7e42bcef8897"
+                        "https://target.scene7.com/is/image/Target/GUEST_3233ab92-4c6e-43f9-b6f3-3ab18ce93a1e",
+                        "https://target.scene7.com/is/image/Target/GUEST_899fd228-4707-49c5-95a4-6a3ebc637489",
+                        "https://target.scene7.com/is/image/Target/GUEST_6f2d26bf-8030-4cc5-be96-238dfc8e2ac1",
+                        "https://target.scene7.com/is/image/Target/GUEST_cfa93dbe-bc44-485c-8ced-4c52e8684dac"
                     ]
                 },
                 "videos": [
@@ -121,194 +33,3520 @@
                         "video_files": [
                             {
                                 "mime_type": "video/mp4",
-                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_e692de0f-1dba-4db4-9b75-f26ee30a12aa_Flash9_Autox720p_2600k"
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_327b7dde-74ef-49e9-baab-af0b17ea4e98_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "270-02-7779",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Ayo Frozen Chicken Yassa - 8oz",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 8 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Experience the flavors of West Africa in minutes!",
+                        "No need to spend hours marinating chicken and caramelizing onions \u2013  AYO\u2019s Chicken Yassa is fully ready to enjoy in under four minutes!",
+                        "100 mg Sodium",
+                        "18 grams Protein",
+                        "Good Source Iron"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Prepared Meals and Sides",
+                    "type": "439602"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "PAC Group Investments LLC",
+                    "id": "2000462"
+                },
+                {
+                    "vendor_name": "STORE ONLY DUMMY VENDOR",
+                    "id": "1213676"
+                },
+                {
+                    "vendor_name": "C & S WHOLESALE GROCERS",
+                    "id": "1142161"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/ayo-foods/-/N-q643lexs7j3",
+                "linking_id": "q643lexs7j3",
+                "name": "Ayo Foods"
+            }
+        },
+        "promotions": [
+            {
+                "plp_message": "Save $1 on AYO frozen entrees",
+                "promotion_id": "273265712",
+                "promotion_class": "Buy and Save",
+                "ship_method": [
+                    "PickupInStore",
+                    "SCHEDULED_DELIVERY"
+                ],
+                "subscription_type": "ALL",
+                "threshold_type": "quantity",
+                "threshold_value": 1.0,
+                "reward_type": "DollarOff",
+                "reward_value": 1.0,
+                "external_promotion_alternate_id": "273265712",
+                "circle_offer": true
+            }
+        ],
+        "price": {
+            "current_retail": 5.69,
+            "formatted_current_price": "$5.69",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.71",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 5.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.17,
+                    "count": 41,
+                    "secondary_averages": [
+                        {
+                            "id": "easyToPrepare",
+                            "label": "easy to prepare",
+                            "value": 4.89
+                        },
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 4.42
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 4.05
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.37
+                        }
+                    ]
+                }
+            }
+        },
+        "is_sponsored_sku": true,
+        "sponsored_ad": {
+            "ad_source": "citrus",
+            "click_beacon": "",
+            "click_id": "display_YNmN079E17GywNuGNHMzE2a64OsKCgoIODMzNzY5NzMSABoMCIWevLAGEIeb74YCIgIIAQ==",
+            "click_token": "display_YNmN079E17GywNuGNHMzE2a64OsKCgoIODMzNzY5NzMSABoMCIWevLAGEIeb74YCIgIIAQ==",
+            "impression_id": "display_YNmN079E17GywNuGNHMzE2a64OsKCgoIODMzNzY5NzMSABoMCIWevLAGEIeb74YCIgIIAQ==",
+            "product_page_beacon": "",
+            "view_beacon": ""
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "89659027",
+        "original_tcin": "89659027",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 0,
+                "department_id": 49
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-honey-pot-company-lavender-chamomile-hydrating-body-cleanser-15-fl-oz/-/A-89659027",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_d666c127-266c-4870-8b18-aa5de0c59244",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_7421cf2d-e153-4a28-a11b-8ed067f9b659",
+                        "https://target.scene7.com/is/image/Target/GUEST_b2b02797-7740-4756-9fca-e7eb6a1d70ec",
+                        "https://target.scene7.com/is/image/Target/GUEST_4894d456-a7bd-41fb-a3af-108610c30fa3",
+                        "https://target.scene7.com/is/image/Target/GUEST_72d222a1-03ec-409c-83f6-7099ddf9094b",
+                        "https://target.scene7.com/is/image/Target/GUEST_a81fd0ce-eef5-4b74-9848-c72025128039",
+                        "https://target.scene7.com/is/image/Target/GUEST_5b6aabe3-73e0-4f80-bf18-7f2f01b53c2d",
+                        "https://target.scene7.com/is/image/Target/GUEST_3bd1c639-9b09-4a28-ba75-0a537d6ae85c",
+                        "https://target.scene7.com/is/image/Target/GUEST_e73989b6-b12a-42d7-9ed4-64a0369b0e1c",
+                        "https://target.scene7.com/is/image/Target/GUEST_52b4af88-8f43-48e4-a588-31a9264fe39f"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_b8d76238-f86b-42da-97f7-f730122d3f52_Flash9_Autox720p_2600k"
                             }
                         ]
                     }
                 ]
             },
             "compliance": {},
-            "has_extended_sizing": false,
+            "dpci": "049-00-0145",
             "cart_add_on_threshold": 35.0,
             "product_description": {
-                "title": "Milk-Bone Soft & Chewy Chicken Flavor Dog Treats",
+                "title": "The Honey Pot Company, Lavender Chamomile Hydrating Body Cleanser - 15 fl oz",
                 "bullet_descriptions": [
-                    "<B>Pet Caution Statement:</B> Not for human consumption",
-                    "<B>Intended Pet Type:</B> Dog",
-                    "<B>Storage Instructions:</B> Store in Dry Place",
-                    "<B>State of Readiness:</B> Ready to Eat",
-                    "<B>Features:</B> Wheat Free",
-                    "<B>Package Quantity:</B> 1",
-                    "<B>Pet Lifestage:</B> All Ages",
-                    "<B>Breed size:</B> All Sizes",
-                    "<B>Net weight:</B> 5.6 Ounces",
-                    "<B>Pets subtype:</B> Chewy Treats",
-                    "<B>Country of Origin:</B> United States"
+                    "<B>Scent:</B> Lavender, Chamomile",
+                    "<B>Suggested Age:</B> 12 Years and Up",
+                    "<B>Product Form:</B> Serum",
+                    "<B>Beauty Purpose:</B> Basic Cleansing",
+                    "<B>Recommended Skin Type:</B> Mature, Combination, Dry, Oily, Sensitive, Normal",
+                    "<B>Net weight:</B> 15 fl oz (US)"
                 ],
                 "soft_bullets": {
                     "bullets": [
-                        "Made with Real Chicken - Savory flavor and rich in protein",
-                        "Wholesome & Tasty - Delicious treats that you can feel good about giving",
-                        "12 Vitamins & Minerals - Fortified to help keep dogs at their best",
-                        "Tender snacks with a soft & chewy texture",
-                        "Produced In Buffalo, New York"
+                        "Dermatologist-Approved",
+                        "Plant-Derived Botanical Scents",
+                        "Shown to moisturize, hydrate and help maintain a healthy skin microbiome",
+                        "pH balanced for the body",
+                        "Sensitive & non-irritating"
                     ]
                 }
             },
             "product_classification": {
                 "item_type": {
-                    "name": "Pet Treats",
-                    "type": "276714"
+                    "name": "Body Washes",
+                    "type": "250524"
                 }
             },
+            "product_vendors": [
+                {
+                    "vendor_name": "The Honey Pot Co.",
+                    "id": "1985590"
+                }
+            ],
+            "fulfillment": {},
             "primary_brand": {
-                "canonical_url": "/b/milk-bone/-/N-4tfxt",
-                "linking_id": "4tfxt",
-                "name": "Milk-Bone"
-            }
-        },
-        "promotions": [
-            {
-                "plp_message": "Buy 1, get 1 30% off pet treats, toys & chews",
-                "promotion_id": "975095072",
-                "promotion_class": "BOGO",
-                "subscription_type": "ALL",
-                "threshold_type": "quantity",
-                "threshold_value": 1.0,
-                "reward_type": "PercentageOff",
-                "reward_value": 30.0,
-                "circle_offer": false
+                "canonical_url": "/b/the-honey-pot-company/-/N-q643lelz3m5",
+                "linking_id": "q643lelz3m5",
+                "name": "The Honey Pot Company"
             },
-            {
-                "plp_message": "Save 10% on Dog Treats on select items",
-                "promotion_id": "116618443",
-                "promotion_class": "Buy and Save",
-                "subscription_type": "ALL",
-                "threshold_type": "quantity",
-                "reward_type": "PercentageOff",
-                "reward_value": 10.0,
-                "external_promotion_alternate_id": "116618443",
-                "circle_offer": true
-            }
-        ],
+            "ribbons": [
+                "New At Target"
+            ]
+        },
+        "promotions": [],
         "price": {
-            "formatted_current_price": "$4.59 - $14.79",
-            "formatted_current_price_type": "reg",
-            "location_id": 1777
+            "current_retail": 7.99,
+            "formatted_comparison_price": "$9.99",
+            "formatted_comparison_price_type": "reg",
+            "formatted_current_price": "$7.99",
+            "formatted_current_price_type": "sale",
+            "formatted_unit_price": "$0.53",
+            "formatted_unit_price_suffix": "/fluid ounce",
+            "reg_retail": 9.99,
+            "location_id": 1771
         },
         "ratings_and_reviews": {
             "statistics": {
                 "rating": {
-                    "average": 4.79,
-                    "count": 907,
+                    "average": 5.0,
+                    "count": 1
+                }
+            }
+        },
+        "is_sponsored_sku": true,
+        "sponsored_ad": {
+            "ad_source": "criteo",
+            "click_beacon": "//b.va.us.criteo.com/rm?rm_e=0xjkBUT9EOX7iG5NjcaHVm204G-XpH7QzD1kz2CVmzS0XDEbNoS-lMBQ2a5PPGVm2nXPPFLbyUu8SDtazVDPPe6deyRCMP5-C7ih0t4tIaM99oaEBHESneNedtUdJ0XdsDHmJrjW85F9Up4_ekbUtga-wfmPTtPMd8pFi1IyRClVVnSFkLE-A9F7oZQBzvMxQ0xXBJ2xqBPN8xjYaZVX0FBqpLkLkKmZlogfVeLfbzIHeovon20vxK4MBpaqzmrEQG0THEFiWAYb0OTHZ6qzNWBvXle3OayUcsUegIrF38vMauJwaTAf9bjMZ8ld3fNuvN_39k0LV-OVW_LRAxZ9qWmByqXnpbuqu4Aab4kKQ-gLl5Ru8R-9mhXumh2YGpSr",
+            "click_id": "hfYVIuJ360WE4UHGqu8j2Q_RM",
+            "click_token": "0xjkBUT9EOX7iG5NjcaHVm204G-XpH7QzD1kz2CVmzS0XDEbNoS-lMBQ2a5PPGVm2nXPPFLbyUu8SDtazVDPPe6deyRCMP5-C7ih0t4tIaM99oaEBHESneNedtUdJ0XdsDHmJrjW85F9Up4_ekbUtga-wfmPTtPMd8pFi1IyRClVVnSFkLE-A9F7oZQBzvMxQ0xXBJ2xqBPN8xjYaZVX0FBqpLkLkKmZlogfVeLfbzIHeovon20vxK4MBpaqzmrEQG0THEFiWAYb0OTHZ6qzNWBvXle3OayUcsUegIrF38vMauJwaTAf9bjMZ8ld3fNuvN_39k0LV-OVW_LRAxZ9qWmByqXnpbuqu4Aab4kKQ-gLl5Ru8R-9mhXumh2YGpSr",
+            "impression_id": "uqkewZ8m4UShzdQq1go0rg_RM",
+            "product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fthe-honey-pot-company-lavender-chamomile-hydrating-body-cleanser-15-fl-oz%2f-%2fA-89659027&sig=1-Q9sOpZYGXYGLySGnmCbIoSSnhiVzwhAvLSIfHosRAWo&rm_e=X_adOxM88YgtHj-G7r7Gjau1cV_66UBKdU5wy79MSki15p3aeWJbHzz4J8_r2ivKTh0-zqc8CswTPedXsYj5AYYvIR6aAG5qNQIZ77tKpUy0xQ1Lgt9MJooC2mATr5CKRgAvUrQ8A_lRrmekNuLKVH8_duFTZfCr36FoDRUUYDPa4hKU-_JMP4Wp6iPV5QBFA-k5AQG4i5TG5_nBQv1XbFd7DQ0YMhG3U67me_JdlyciNwgpHfZX53yYdG7ctEMMW8pmgLJq0I7cF4hQTt-0HPIJmm3enuSvjR8tGG4sD8Mg4bPuaJwpnhzeMZLDTG24oEIVnPXYrL2dOOcHhHegrV-IPeFFM7q08hXpbavwS0bBMXhKNzxkZeq77b16zmnb&ev=4",
+            "view_beacon": "//b.va.us.criteo.com/rm?rm_e=jneNm516rlymr61GhtkbguoY6NWrrKqHDve1ncxPYqicCbbIqgws1epqNPIPevrjKVAYF1oV-Om4Q720Lo5JBekeaAYQ1NMcJVdojwwJgsRRmUb-TKpL46Jz4Sm_4ZdTRROAjOK4HeNjGS4VH8elcKgvX4yMcDIwMeC6NZ3ThAmtfQutFUKdCmFU36-lU24UjzrAri0Af9uAMNKafTT7li6a22MO-B_MbK2_C0XkYas1IVFtt85Is2Obr8P0Xlkm4skWZrsdCvsjGxdiH2XZxaKZ5y0qcmcx-uLFJLoHxryNdeABfad2zBJ8Z2bJlOUuoN8UP09TwnHTR4DvcJBmzg&ev=4"
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "88314904",
+        "original_tcin": "88314904",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 17,
+                "department_id": 12
+            },
+            "eligibility_rules": {
+                "available_to_purchase": {
+                    "start_date_time": "1970-01-01T00:00:00Z"
+                },
+                "available_to_purchase_date_display": {
+                    "is_active": false
+                },
+                "available_to_purchase_time_display": {
+                    "is_active": false
+                },
+                "loyalty_purchase": {},
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/rihanna-anti-2lp-target-exclusive-vinyl/-/A-88314904",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_cdf9e7d3-0169-4537-8bd9-ff4da95b0222",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_02581611-5dca-4fed-871d-d47ef271e7c4"
+                    ]
+                }
+            },
+            "compliance": {},
+            "dpci": "012-17-0824",
+            "mmbv_content": {
+                "street_date": "2023-02-10"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Rihanna - Anti (2LP) (Target Exclusive, Vinyl)",
+                "bullet_descriptions": [
+                    "<B>Record label:</B> Roc Nation",
+                    "<B>Genre:</B> Pop",
+                    "<B>Musical Artist:</B> Rihanna",
+                    "<B>Format:</B> Vinyl"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Limited Edition Target Exclusive Red 2 LP."
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Music",
+                    "type": "300750"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "UNIVERSAL MUSIC GROUP",
+                    "id": "3840717"
+                },
+                {
+                    "vendor_name": "Ingram Entertainment",
+                    "id": "1985351"
+                },
+                {
+                    "vendor_name": "ALLIANCE ENTERTAINMENT",
+                    "id": "1258411"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/universal-music-group/-/N-l4bvw",
+                "linking_id": "l4bvw",
+                "name": "Universal Music Group"
+            },
+            "ribbons": [
+                "Only At Target"
+            ]
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 39.99,
+            "formatted_current_price": "$39.99",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 39.99,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.4,
+                    "count": 107
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "89571323",
+        "original_tcin": "89571323",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 17,
+                "department_id": 12
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/tina-turner-simply-the-best-vinyl/-/A-89571323",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_35c7d9cf-e70d-47ee-9c4b-87a21d772c4e"
+                }
+            },
+            "compliance": {},
+            "dpci": "012-17-8691",
+            "mmbv_content": {
+                "street_date": "2023-07-21"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Tina Turner - Simply The Best (Vinyl)",
+                "bullet_descriptions": [
+                    "<B>Record label:</B> Rhino/Parlophone",
+                    "<B>Genre:</B> Pop",
+                    "<B>Musical Artist:</B> Tina Turner",
+                    "<B>Format:</B> Vinyl"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Music",
+                    "type": "300750"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "W.E.A. CORPORATION",
+                    "id": "4743619"
+                },
+                {
+                    "vendor_name": "ALLIANCE ENTERTAINMENT",
+                    "id": "1258411"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/wea/-/N-ogxyz",
+                "linking_id": "ogxyz",
+                "name": "WEA"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 37.99,
+            "formatted_current_price": "$37.99",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 37.99,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 5.0,
+                    "count": 2
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "89962609",
+        "original_tcin": "89962609",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 17,
+                "department_id": 12
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/al-green-let-39-s-stay-together-target-exclusive-vinyl/-/A-89962609",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_cc3376d5-fe27-4b3d-aef5-1a39656c79fd"
+                }
+            },
+            "compliance": {},
+            "dpci": "012-17-5007",
+            "mmbv_content": {
+                "street_date": "2024-01-05",
+                "media_format": "Vinyl"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Al Green - Let&#39;s Stay Together (Target Exclusive, Vinyl)",
+                "bullet_descriptions": [
+                    "<B>Record label:</B> Fat Possum Records",
+                    "<B>Genre:</B> R&B",
+                    "<B>Musical Artist:</B> Al Green",
+                    "<B>Format:</B> Vinyl"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Music",
+                    "type": "300750"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "SONY MUSIC ENTERTAINMENT",
+                    "id": "4324847"
+                },
+                {
+                    "vendor_name": "Ingram Entertainment",
+                    "id": "1984811"
+                },
+                {
+                    "vendor_name": "ALLIANCE ENTERTAINMENT",
+                    "id": "1258411"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/the-orchard/-/N-nnml5",
+                "linking_id": "nnml5",
+                "name": "The Orchard"
+            },
+            "ribbons": [
+                "Only At Target"
+            ]
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 24.99,
+            "formatted_current_price": "$24.99",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 24.99,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 5.0,
+                    "count": 1
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "89809419",
+        "original_tcin": "89809419",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 17,
+                "department_id": 12
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/tyler-the-creator-wolf-vinyl/-/A-89809419",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a585334a-1d82-41c2-9eed-efe7c858b2e8",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_b496e923-d945-4ee4-bbb2-25484a53ad93"
+                    ]
+                }
+            },
+            "compliance": {},
+            "dpci": "012-17-9125",
+            "mmbv_content": {
+                "street_date": "2023-10-20"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Tyler The Creator - Wolf (Vinyl)",
+                "bullet_descriptions": [
+                    "<B>Record label:</B> Columbia",
+                    "<B>Genre:</B> Hip-hop",
+                    "<B>Musical Artist:</B> Tyler the Creator",
+                    "<B>Format:</B> Vinyl"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Long out of print on vinyl, Tyler, The Creator\u2019s classic album Wolf finally receives an official repress.",
+                        "The album is pressed on two pink-colored LPs in a gatefold jacket with printed inner sleeves and a 12\u201dx 12\u201d insert.",
+                        "The package also includes an oversized sticker of Tyler\u2019s face."
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Music",
+                    "type": "300750"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "SONY MUSIC ENTERTAINMENT",
+                    "id": "4324847"
+                },
+                {
+                    "vendor_name": "ALLIANCE ENTERTAINMENT",
+                    "id": "1258411"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/sony-music/-/N-55zxv",
+                "linking_id": "55zxv",
+                "name": "Sony Music"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 34.99,
+            "formatted_current_price": "$34.99",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 34.99,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.82,
+                    "count": 11
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "76578294",
+        "original_tcin": "76578294",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Collection Child",
+            "relationship_type_code": "CC",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/carol-39-s-daughter-goddess-strength-scalp-oil-and-hair-oil-deep-treatment-with-castor-oil-for-breakage-prone-hair-4-2-fl-oz/-/A-76578294",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_2958912b-6b45-497c-a53c-387217bdcfc7",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_3ec9b587-baf2-448e-9c36-3bc1e56f3b9e",
+                        "https://target.scene7.com/is/image/Target/GUEST_5cfb6890-4ae7-48c9-b18a-c71c0319494e",
+                        "https://target.scene7.com/is/image/Target/GUEST_a807794e-3a59-4cb8-9399-1ae81cd32605",
+                        "https://target.scene7.com/is/image/Target/GUEST_13c0b022-2879-4223-b7e0-7fb1ecdb9249",
+                        "https://target.scene7.com/is/image/Target/GUEST_b0ac965b-64f8-400c-a5b0-bd7e3509b27b",
+                        "https://target.scene7.com/is/image/Target/GUEST_a41b2e41-0869-49b9-9560-a994b055a6ce",
+                        "https://target.scene7.com/is/image/Target/GUEST_b1f3a0cf-33df-4a3f-bab2-13f324b67043"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_f2e0a8e9-214a-48a9-9d9b-1ed27c7e2880_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    },
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_a5986913-b3cf-4e02-9a7a-f0250179febe_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    },
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_2116b76b-cdd2-4c16-98b7-b8b55940389c_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-7893",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Carol&#39;s Daughter Goddess Strength Scalp Oil and Hair Oil Deep Treatment with Castor Oil for Breakage Prone Hair - 4.2 fl oz",
+                "bullet_descriptions": [
+                    "<B>Hair Type:</B> Textured, All Hair Types, Curly",
+                    "<B>Health Facts:</B> Paraben-Free, Contains Castor Oil, Artificial Color-Free, Vegan, Mineral Oil-Free, Sulfate-Free",
+                    "<B>Product Form:</B> Oil",
+                    "<B>Recommended Use:</B> Daily",
+                    "<B>Beauty Purpose:</B> Strengthening",
+                    "<B>Net weight:</B> 4.2 fl oz (US)",
+                    "<B>Features:</B> Lightweight"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Hair Treatment Oil: Wraps curly hair with moisture to help protect hair from breakage and split ends; Scalp feels moisturized, natural hair is stronger; A great stocking stuffer gift blended with oils and vitamin E to hydrate and style curls",
+                        "For Weak, Breakage-Prone Hair: Goddess Strength anti-breakage hair products helps support the strength of hair as it grows and gets longer; Delivers 15x stronger hair and 94 percent less breakage in one use",
+                        "The Goddess Strength Recipe - Blended with Castor Oil and Black Seed Oil \u2013 No Petrolatum, No Mineral Oil, No Artificial Colors, Vegan; \u201cBeing a Goddess is all about strength - I chose ingredients like Castor Oil and Black Seed Oil for Goddess Strength to fortify weak hair making it strong, beautiful, goddess-like\u201d \u2013 Lisa Price, Founder",
+                        "Coily, Curly, Wavy Hair Products: Carol\u2019s Daughter Collection created for natural hair with 4C, 4B, 4A, 3C, 3B, 3A, 2C, 2B, 2A curl types; Complete the routine with: Curly Hair Shampoo and Conditioner set, Leave in Conditioner, Hair Mask and Hair Oil",
+                        "Black Woman Founded: Lisa Price founded Carol's Daughter in her Brooklyn kitchen in 1993 with a mother's love and encouragement; Today we carry a full line of textured hair care products for women and men to care for all waves, curls and coils"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Hair Treatments",
+                    "type": "250731"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "CAROLS DAUGHTER PROD LLC",
+                    "id": "1310414"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/carol-s-daughter/-/N-55m2h",
+                "linking_id": "55m2h",
+                "name": "Carol's Daughter"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 13.69,
+            "formatted_current_price": "$13.69",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 13.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.58,
+                    "count": 1448,
                     "secondary_averages": [
                         {
-                            "id": "dogLikesIt",
-                            "label": "dog likes it",
-                            "value": 4.96
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.23
                         },
                         {
                             "id": "Value",
                             "label": "value",
-                            "value": 4.72
+                            "value": 4.3
                         },
                         {
-                            "id": "easyToDigest",
-                            "label": "easy to digest",
-                            "value": 4.85
-                        },
-                        {
-                            "id": "Quality",
-                            "label": "quality",
-                            "value": 4.77
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 4.03
                         }
                     ]
                 }
             }
         },
-        "variation_summary": {
-            "themes": [
+        "is_sponsored_sku": true,
+        "sponsored_ad": {
+            "ad_source": "criteo",
+            "click_beacon": "//b.va.us.criteo.com/rm?rm_e=APSNk-WEVS1GBSALXN44uUylevY7Eyt-XU3bhNdhD62pOWOeSs0B0WisT_wZJ_wsaXr82-tPFwAcoNqsR3VW9O0i6FjHMa3vKi51Ij_DvYGkgATzq6vmjGr2RlhRgi6N7lUdp26bATrcFNGM-18dgvOf_sGfohNtyxX1-DUWZFI-mzyQU4zVMJOQjhFlRPmGdm2emaGHPm3R3g-j4Ux9s5NiZXCD6xXPSXdNt6c_QPN2QM-UWd4oggLQYLxBzO59_2-OYOxcPTYrclD-R-UGYhtRQqonaUIc7OOnsnhUQOQ25NbZLRmPEG54y-a7O8BS9MQ7A7OHBhZpvQsQrXgC7iOLkdOsClQ42JLpPeATsTwcOPZmW5a9w0hQ98Hq5lWO",
+            "click_id": "UMEiTpMmakeBpjOJLlIUJA_RM",
+            "click_token": "APSNk-WEVS1GBSALXN44uUylevY7Eyt-XU3bhNdhD62pOWOeSs0B0WisT_wZJ_wsaXr82-tPFwAcoNqsR3VW9O0i6FjHMa3vKi51Ij_DvYGkgATzq6vmjGr2RlhRgi6N7lUdp26bATrcFNGM-18dgvOf_sGfohNtyxX1-DUWZFI-mzyQU4zVMJOQjhFlRPmGdm2emaGHPm3R3g-j4Ux9s5NiZXCD6xXPSXdNt6c_QPN2QM-UWd4oggLQYLxBzO59_2-OYOxcPTYrclD-R-UGYhtRQqonaUIc7OOnsnhUQOQ25NbZLRmPEG54y-a7O8BS9MQ7A7OHBhZpvQsQrXgC7iOLkdOsClQ42JLpPeATsTwcOPZmW5a9w0hQ98Hq5lWO",
+            "impression_id": "3L4c5yXKMkOwqxdcZzPvGQ_RM",
+            "product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fcarol-39-s-daughter-goddess-strength-scalp-oil-and-hair-oil-deep-treatment-with-castor-oil-for-breakage-prone-hair-4-2-fl-oz%2f-%2fA-76578294&sig=1-FEqHc6yvFLClndaJ2OvTpw3jcROb6zAe_FJMh2ixIKw&rm_e=L8CQ_vqnmR9kzlR7FJNCax5-Y_MNL7pHKRJzVym5wJmEpLMqkbUmwLxVJMMAucTaWYRsXbjeW9mrtM-Kwl7MdZ441AtCuI297xkDhmVTRzCFjN7Hjh3V5caYUnv1aQSrFmEU3wVT9sP2hV5v29DKnz18LfR6IurC9d0tXnRlMBxywEL1Cd3tztL8gTSWwDZIPJvLPW_Qhne0YeUSkQNhMRYlgkPJTn60UJVO3kfdEwRAk6xFoae19tKlyaw_PbBRg5wOBTiE5s26mhayCvcZlPKxO858fhO4u0wdxzzwltASwRqiddoJV7tW9OuBs4CS3YL9T_sulO93Nj_ziDO7ESQimbL3yO-ASwZ4Ktw-BaBurdC5YhM8ZMuoMnWuRCrG&ev=4",
+            "view_beacon": "//b.va.us.criteo.com/rm?rm_e=wOf1wa8jAgzmamf6hHpUUAZGi0-e-h_xpkd7AdVcUkgFTIjY0RtShJ4fSB6U6rOU8rym5JcEsotu5ge0V2vgIne-X2mvFg43lPH5xdpRyk8aYx9LUfpTNff8OhJFrYCd-GpuLJlIty0FUiaOlzsM2pmG1WnknowUFPZkPr-STbGpsIunv1TvcxUOWETi2fTTixZlNDN4aZ0Amu-TDj02wYimA6QdYq2qEV_AwGrlFUx6MwKGdFjz6IbWdMTmerW8CSM2Gd1GP4k1Rwfa9xv8twF2irFNQOL7yj38IORgAnyZ1_oODL1NS9PcK-ocdDfVJLhkQ3ImMyvDtw5sDN6eTg&ev=4"
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "89130879",
+        "original_tcin": "89130879",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 2,
+                "department_id": 270
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/ayo-frozen-mini-pies-chicken-8oz-10ct/-/A-89130879",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_210d002b-51ca-4e98-b222-3a16d7987457",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_f1fd08cc-c329-4625-9849-bdbf5461c157",
+                        "https://target.scene7.com/is/image/Target/GUEST_f7e41611-3cf6-4c34-b2a5-9eafd354481e",
+                        "https://target.scene7.com/is/image/Target/GUEST_44f31f69-b238-4cf8-8911-490e643ec72d",
+                        "https://target.scene7.com/is/image/Target/GUEST_d457ca4a-feeb-4156-96c7-4845b635d70f"
+                    ]
+                }
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "270-02-3518",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Ayo Frozen Mini Pies Chicken - 8oz/10ct",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Soy, Wheat",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 8 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Authentic West African Flavors",
+                        "Perfect blend of delicate pastry dough, meat, and flavors",
+                        "3 grams of Protein in every mini",
+                        "Made with antibiotic and hormone free chicken",
+                        "Use as an appetizer or main dish."
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Prepared Meals and Sides",
+                    "type": "439602"
+                }
+            },
+            "product_vendors": [
                 {
-                    "name": "Size",
-                    "has_swatch": true,
-                    "swatches": [
+                    "vendor_name": "PAC Group Investments LLC",
+                    "id": "2000462"
+                },
+                {
+                    "vendor_name": "C & S WHOLESALE GROCERS",
+                    "id": "1142161"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/ayo-foods/-/N-q643lexs7j3",
+                "linking_id": "q643lexs7j3",
+                "name": "Ayo Foods"
+            }
+        },
+        "promotions": [
+            {
+                "plp_message": "Save $1 on AYO frozen entrees",
+                "promotion_id": "273265712",
+                "promotion_class": "Buy and Save",
+                "ship_method": [
+                    "PickupInStore",
+                    "SCHEDULED_DELIVERY"
+                ],
+                "subscription_type": "ALL",
+                "threshold_type": "quantity",
+                "threshold_value": 1.0,
+                "reward_type": "DollarOff",
+                "reward_value": 1.0,
+                "external_promotion_alternate_id": "273265712",
+                "circle_offer": true
+            }
+        ],
+        "price": {
+            "current_retail": 5.99,
+            "formatted_current_price": "$5.99",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.75",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 5.99,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 3.67,
+                    "count": 3,
+                    "secondary_averages": [
                         {
-                            "value": "5.6oz",
-                            "first_child": {
-                                "tcin": "14721843",
-                                "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_116cf1c6-3bdb-4dc3-a1b8-acbc2d76117d",
-                                "alternate_image_urls": [
-                                    "https://target.scene7.com/is/image/Target/GUEST_944d52ab-ec90-4edf-a1bf-96851b8731f8",
-                                    "https://target.scene7.com/is/image/Target/GUEST_99f332f4-ca1c-488f-83cf-9f5741af1513",
-                                    "https://target.scene7.com/is/image/Target/GUEST_51962c3c-2daa-4023-b55a-9ddcc15d76b8",
-                                    "https://target.scene7.com/is/image/Target/GUEST_fdc614b8-b791-455c-b995-2975c6747e49",
-                                    "https://target.scene7.com/is/image/Target/GUEST_585a5088-1f9b-43f0-a897-a407c25a9097",
-                                    "https://target.scene7.com/is/image/Target/GUEST_df1bdf33-d4d9-4f02-a8c1-7e42bcef8897"
-                                ]
-                            }
+                            "id": "Value",
+                            "label": "value",
+                            "value": 5.0
                         },
                         {
-                            "value": "25oz",
-                            "first_child": {
-                                "tcin": "77361471",
-                                "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_d411e3aa-6253-4109-91df-c8ff1a4083dd",
-                                "alternate_image_urls": [
-                                    "https://target.scene7.com/is/image/Target/GUEST_1d82ad73-35d4-4546-892c-0b1ba5ef4062",
-                                    "https://target.scene7.com/is/image/Target/GUEST_75fe8ed0-5858-486e-9b43-ce170108df1f",
-                                    "https://target.scene7.com/is/image/Target/GUEST_249d6ec7-4929-4c5e-9484-b0b0fbfb824a",
-                                    "https://target.scene7.com/is/image/Target/GUEST_bba8a877-25a6-4da7-b0f4-542af548c055",
-                                    "https://target.scene7.com/is/image/Target/GUEST_40f8f4fc-a887-45ae-9814-54dbddf714c2",
-                                    "https://target.scene7.com/is/image/Target/GUEST_c92e34f0-8d97-4199-b87e-3ce0218fe135",
-                                    "https://target.scene7.com/is/image/Target/GUEST_04cf4e4c-f1aa-44cf-8379-5b88e748355f"
-                                ]
-                            }
+                            "id": "easyToPrepare",
+                            "label": "easy to prepare",
+                            "value": 5.0
+                        },
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 5.0
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 5.0
                         }
                     ]
                 }
-            ]
-        }
-    },
-    "promotions": [
-        {
-            "plp_message": "Buy 1, get 1 30% off pet treats, toys & chews",
-            "promotion_id": "975095072",
-            "promotion_class": "BOGO",
-            "subscription_type": "ALL",
-            "threshold_type": "quantity",
-            "threshold_value": 1.0,
-            "reward_type": "PercentageOff",
-            "reward_value": 30.0,
-            "circle_offer": false
+            }
         },
-        {
-            "plp_message": "Save 10% on Dog Treats",
-            "promotion_id": "116618443",
-            "promotion_class": "Buy and Save",
-            "subscription_type": "ALL",
-            "threshold_type": "quantity",
-            "reward_type": "PercentageOff",
-            "reward_value": 10.0,
-            "external_promotion_alternate_id": "116618443",
-            "circle_offer": true
+        "is_sponsored_sku": true,
+        "sponsored_ad": {
+            "ad_source": "citrus",
+            "click_beacon": "",
+            "click_id": "display_ppHXpdAbW2DBqkK3dKAIeUviMNsKCgoIODkxMzA4NzkSABoMCIWevLAGEPX-8YYCIgIIAQ==",
+            "click_token": "display_ppHXpdAbW2DBqkK3dKAIeUviMNsKCgoIODkxMzA4NzkSABoMCIWevLAGEPX-8YYCIgIIAQ==",
+            "impression_id": "display_ppHXpdAbW2DBqkK3dKAIeUviMNsKCgoIODkxMzA4NzkSABoMCIWevLAGEPX-8YYCIgIIAQ==",
+            "product_page_beacon": "",
+            "view_beacon": ""
         }
-    ],
-    "price": {
-        "current_retail": 14.79,
-        "formatted_current_price": "$14.79",
-        "formatted_current_price_type": "reg",
-        "formatted_unit_price": "$0.59",
-        "formatted_unit_price_suffix": "/ounce",
-        "reg_retail": 14.79,
-        "location_id": 1777
     },
-    "is_sponsored_sku": true,
-    "sponsored_ad": {
-        "ad_source": "criteo",
-        "click_beacon": "//b.va.us.criteo.com/rm?rm_e=briq5U8UJXFxey6xzcITQiyFPJtxiHzSwmKLJpmPl2j2UYwhCzI9Huut5q3rwbPp9dvD5VXD-e-ZhT_5Kf72ifjERXiX-sMBjo167fNvc-wSHHQ04x8ks4XOlXw32baSFnGl6THaPDPvn5BRrP6VP9myvvSj8ENVb_htLrdBV8Xsb_eNq336cbxlW92ekODIqjkPpTBw2n4K2Qm3s4-CJE5lYWmuADlKjbaqACADS5tHsVXnyQkwRrG-062pH-w-AZCEUTLmathOLMDZQHpaqNx6DQRx7LsoNRBOfGyQ2RxmrtVVtX6nb_H1obD3JkoqOUJ4JKaDF3O9_XJK9UPtMA6_sKmmU3Cc8WW3Ic44pztbsYsC4-Wp4TK0HQf2aotD",
-        "click_id": "ScHVDeiqp0SXvOM9QBnyDg_RM",
-        "click_token": "briq5U8UJXFxey6xzcITQiyFPJtxiHzSwmKLJpmPl2j2UYwhCzI9Huut5q3rwbPp9dvD5VXD-e-ZhT_5Kf72ifjERXiX-sMBjo167fNvc-wSHHQ04x8ks4XOlXw32baSFnGl6THaPDPvn5BRrP6VP9myvvSj8ENVb_htLrdBV8Xsb_eNq336cbxlW92ekODIqjkPpTBw2n4K2Qm3s4-CJE5lYWmuADlKjbaqACADS5tHsVXnyQkwRrG-062pH-w-AZCEUTLmathOLMDZQHpaqNx6DQRx7LsoNRBOfGyQ2RxmrtVVtX6nb_H1obD3JkoqOUJ4JKaDF3O9_XJK9UPtMA6_sKmmU3Cc8WW3Ic44pztbsYsC4-Wp4TK0HQf2aotD",
-        "impression_id": "-wQB4QPXYESPC-BMnxlGWQ_RM",
-        "product_page_beacon": "//b.va.us.criteo.com/rm?dest=https%3a%2f%2fwww.target.com%2fp%2fmilk-bone-soft-38-chewy-chicken-flavor-dog-treats-25oz%2f-%2fA-77361471&sig=1-_g5y5kRuA7Uut2KIUUhNUMwOHAeoyWeJoD89PETKtT4&rm_e=q7tunfYrgDSkWt89ot7jjf0B94urtphBGBNJbk1tjjzfwl08cey883pIKVDT_9FTe1pONUbTBOKLi22DHnPxSAfP-RSm2kV-AbIXeTC_L03C3t131HYfScSO6WyLneNVW2_sD4eQq3DnpcyEjk1k5iUTlXloYwB6mXjRzRub3OaVhv4yGfPnkl_k_ZvDxPgX17X5N_cthOQcb1V4Hc9z0qcsonztvi3GOozTZt8x9HuyWvNUa595fWB6hAROLFAyclwjbMYlg2qH6CgaqBjm7cD4qA8QPkXKX9IlAbKcV17LUyHVjm6rxdyvM1qzAb2FfOFQpT3FL7PpguJUqEUu-OVPF7Q4PMTBqXTQYdmTbc9rZ9rbVry_BkVX4XbElDOL&ev=4",
-        "view_beacon": "//b.va.us.criteo.com/rm?rm_e=f39C1fVh94U8Jnj7yln5DF3HCWdM82BY59DINExbNxnsQwYCN4a9WDe0yqJ5TIZwGSDm-FRBq9d3aJyO5dKOBpr7wWxWFJN8nBUCx3Apost8kY4DWmWH6iaG1F9HKY2ws74qekmv7NI2R_8TA5YkLRSPtE5yEFX8CVwnxtBZn0lRFnV0FIAm2HC0nbP1H8A8LxtL1IXZGT_0wo9lTOaQ8lN-f31bJSLvCd3R-uEl1njEbA6G7gOKPXxSH9AvzR89xNxNL6WnRvEaFT2yDQZcY5rqNb989RMV-ftR343YvID2X3xJ-VTaqTBdyfbo4TLypKJ7mCTJ1u9OiyR8RSqwUQ&ev=4"
+    {
+        "__typename": "ProductSummary",
+        "tcin": "86800662",
+        "original_tcin": "86800662",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 2,
+                "department_id": 270
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/ayo-frozen-jollof-rice-with-chicken-10oz/-/A-86800662",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_04142c90-85e4-49c2-8a99-49ff6a4cd017",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_40820864-3398-4a28-9083-db378f9e8640",
+                        "https://target.scene7.com/is/image/Target/GUEST_c1ff1fab-43dd-42c2-af68-3fff258449dd"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_d77fd292-18d8-49d8-923c-5876f395af34_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "270-02-6392",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Ayo Frozen Jollof Rice with Chicken - 10oz",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 10 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "250 Calories",
+                        "16 grams Protein",
+                        "10% Daily Value of Fiber",
+                        "10% Daily Value of Iron"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Prepared Meals and Sides",
+                    "type": "439602"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "PAC Group Investments LLC",
+                    "id": "2000462"
+                },
+                {
+                    "vendor_name": "STORE ONLY DUMMY VENDOR",
+                    "id": "1213676"
+                },
+                {
+                    "vendor_name": "C & S WHOLESALE GROCERS",
+                    "id": "1142161"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/ayo-foods/-/N-q643lexs7j3",
+                "linking_id": "q643lexs7j3",
+                "name": "Ayo Foods"
+            }
+        },
+        "promotions": [
+            {
+                "plp_message": "Save $1 on AYO frozen entrees",
+                "promotion_id": "273265712",
+                "promotion_class": "Buy and Save",
+                "ship_method": [
+                    "PickupInStore",
+                    "SCHEDULED_DELIVERY"
+                ],
+                "subscription_type": "ALL",
+                "threshold_type": "quantity",
+                "threshold_value": 1.0,
+                "reward_type": "DollarOff",
+                "reward_value": 1.0,
+                "external_promotion_alternate_id": "273265712",
+                "circle_offer": true
+            }
+        ],
+        "price": {
+            "current_retail": 5.69,
+            "formatted_current_price": "$5.69",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.57",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 5.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.28,
+                    "count": 36,
+                    "secondary_averages": [
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.23
+                        },
+                        {
+                            "id": "easyToPrepare",
+                            "label": "easy to prepare",
+                            "value": 4.92
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 4.31
+                        },
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 4.31
+                        }
+                    ]
+                }
+            }
+        },
+        "is_sponsored_sku": true,
+        "sponsored_ad": {
+            "ad_source": "citrus",
+            "click_beacon": "",
+            "click_id": "display_cFuMs-i0VGPCMw7JaZmCYSsfqh4KCgoIODY4MDA2NjISABoMCIWevLAGENPH8oYCIgIIAQ==",
+            "click_token": "display_cFuMs-i0VGPCMw7JaZmCYSsfqh4KCgoIODY4MDA2NjISABoMCIWevLAGENPH8oYCIgIIAQ==",
+            "impression_id": "display_cFuMs-i0VGPCMw7JaZmCYSsfqh4KCgoIODY4MDA2NjISABoMCIWevLAGENPH8oYCIgIIAQ==",
+            "product_page_beacon": "",
+            "view_beacon": ""
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "88555109",
+        "original_tcin": "88555109",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 3,
+                "department_id": 59
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/something-someday-by-amanda-gorman-hardcover/-/A-88555109",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_5661f852-179d-4e16-b489-93d2b3722d4c"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-03-2468",
+            "mmbv_content": {
+                "street_date": "2023-09-26"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Something, Someday - by  Amanda Gorman (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 10.0 (H) x 8.0 (W)",
+                    "<B>Weight:</B> 1.25",
+                    "<B>Suggested Age:</B> 4-8 Years",
+                    "<B>Number of Pages:</B> 40",
+                    "<B>Genre:</B> Juvenile Fiction",
+                    "<B>Sub-Genre:</B> Social Themes",
+                    "<B>Publisher:</B> Viking Books for Young Readers",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Amanda Gorman",
+                    "<B>Theme:</B> Prejudice & Racism",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/penguin-publishing/-/N-q643leruiac",
+                "linking_id": "q643leruiac",
+                "name": "Penguin Publishing"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 11.15,
+            "formatted_comparison_price": "$18.99",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$11.15",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 11.15,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 5.0,
+                    "count": 8
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "84157202",
+        "original_tcin": "84157202",
+        "item": {
+            "relationship_type": "Collection Child",
+            "relationship_type_code": "CC",
+            "merchandise_classification": {
+                "class_id": 3,
+                "department_id": 59
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": false
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/more-than-peach-bellen-woodard-original-picture-book-hardcover/-/A-84157202",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_36286f97-91a8-48b0-8a64-54c04a8c5e52"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-03-4070",
+            "mmbv_content": {
+                "street_date": "2022-07-26"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "More Than Peach (Bellen Woodard Original Picture Book) - (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Suggested Age:</B> 0-3 Years",
+                    "<B>Number of Pages:</B> 40",
+                    "<B>Genre:</B> Juvenile Fiction",
+                    "<B>Sub-Genre:</B> Diversity & Multicultural",
+                    "<B>Publisher:</B> Scholastic Inc.",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Bellen Woodard",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/scholastic/-/N-vte9v",
+                "linking_id": "vte9v",
+                "name": "Scholastic"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 10.21,
+            "formatted_comparison_price": "$17.99",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$10.21",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 10.21,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.81,
+                    "count": 21
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "88165702",
+        "original_tcin": "88165702",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 3,
+                "department_id": 59
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/hair-love-abcs-by-matthew-a-cherry-board-book/-/A-88165702",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_307330fd-5ba9-4b71-9328-5df1ce26493e"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-03-6139",
+            "mmbv_content": {
+                "street_date": "2023-08-29"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Hair Love ABCs - by  Matthew A Cherry (Board Book)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 7.0 (H) x 7.0 (W)",
+                    "<B>Weight:</B> .31",
+                    "<B>Suggested Age:</B> 0-3 Years",
+                    "<B>Number of Pages:</B> 28",
+                    "<B>Genre:</B> Juvenile Fiction",
+                    "<B>Sub-Genre:</B> People & Places",
+                    "<B>Publisher:</B> Kokila",
+                    "<B>Format:</B> Board Book",
+                    "<B>Author:</B> Matthew A Cherry",
+                    "<B>Theme:</B> African American, United States",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/penguin-publishing/-/N-q643leruiac",
+                "linking_id": "q643leruiac",
+                "name": "Penguin Publishing"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 8.99,
+            "formatted_current_price": "$8.99",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 8.99,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.33,
+                    "count": 6
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "89113974",
+        "original_tcin": "89113974",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 1,
+                "department_id": 59
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-black-joy-project-by-kleaver-cruz-hardcover/-/A-89113974",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_80570968-b614-4420-b046-2fcb174a5500"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-01-6045",
+            "mmbv_content": {
+                "street_date": "2023-12-19"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "The Black Joy Project - by  Kleaver Cruz (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 10.0 (H) x 7.0 (W)",
+                    "<B>Weight:</B> 1.0",
+                    "<B>Suggested Age:</B> 22 Years and Up",
+                    "<B>Sub-Genre:</B> Black Studies (Global)",
+                    "<B>Genre:</B> Social Science",
+                    "<B>Number of Pages:</B> 224",
+                    "<B>Publisher:</B> Mariner Books",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Kleaver Cruz",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/harper-collins/-/N-4xwbw",
+                "linking_id": "4xwbw",
+                "name": "Harper Collins"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 19.05,
+            "formatted_comparison_price": "$35.00",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$19.05",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 19.05,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.33,
+                    "count": 6
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "88568131",
+        "original_tcin": "88568131",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 1,
+                "department_id": 59
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/black-love-letters-by-cole-brown-38-natalie-johnson-hardcover/-/A-88568131",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_26314a61-4176-4a95-8e33-5744aa0762ad"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-01-5312",
+            "mmbv_content": {
+                "street_date": "2023-10-24"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Black Love Letters - by  Cole Brown &#38; Natalie Johnson (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 7.0 (H) x 5.5 (W) x .81 (D)",
+                    "<B>Suggested Age:</B> 22 Years and Up",
+                    "<B>Sub-Genre:</B> American",
+                    "<B>Genre:</B> Literary Collections",
+                    "<B>Number of Pages:</B> 240",
+                    "<B>Publisher:</B> Get Lifted Books",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Cole Brown & Natalie Johnson",
+                    "<B>Theme:</B> African American",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/ingram/-/N-5szfq",
+                "linking_id": "5szfq",
+                "name": "Ingram"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 15.61,
+            "formatted_comparison_price": "$24.00",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$15.61",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 15.61,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 5.0,
+                    "count": 5
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "86045769",
+        "original_tcin": "86045769",
+        "item": {
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 1,
+                "department_id": 59
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/ghetto-gastro-presents-black-power-kitchen-by-jon-gray-38-pierre-serrao-38-lester-walker-hardcover/-/A-86045769",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a80150dc-84b2-4eaa-b833-ed56ecadf9ff"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-01-2894",
+            "mmbv_content": {
+                "street_date": "2022-10-18"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Ghetto Gastro Presents Black Power Kitchen - by  Jon Gray &#38; Pierre Serrao &#38; Lester Walker (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Suggested Age:</B> 22 Years and Up",
+                    "<B>Number of Pages:</B> 304",
+                    "<B>Genre:</B> Cooking + Food + Wine",
+                    "<B>Sub-Genre:</B> Individual Chefs & Restaurants",
+                    "<B>Publisher:</B> Artisan Publishers",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Jon Gray & Pierre Serrao & Lester Walker",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/hachette-book-group/-/N-832yj",
+                "linking_id": "832yj",
+                "name": "Hachette Book Group"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 21.95,
+            "formatted_comparison_price": "$40.00",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$21.95",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 21.95,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.63,
+                    "count": 27
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "80550934",
+        "original_tcin": "80550934",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 3,
+                "department_id": 59
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-abcs-of-black-history-by-rio-cortez-hardcover/-/A-80550934",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a3144fc1-c186-40c4-b1da-00882c672b6d"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-03-7910",
+            "mmbv_content": {
+                "street_date": "2020-09-15"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "The ABCs of Black History - by Rio Cortez (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 9.1 Inches (H) x 9.2 Inch (W) x .6 Inch (D)",
+                    "<B>Weight:</B> 1.2 Pounds",
+                    "<B>Suggested Age:</B> 4-8 Years",
+                    "<B>Number of Pages:</B> 64",
+                    "<B>Genre:</B> Juvenile Nonfiction",
+                    "<B>Sub-Genre:</B> People & Places",
+                    "<B>Publisher:</B> Workman Publishing",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Rio Cortez",
+                    "<B>Book theme:</B> United States, African American",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/workman/-/N-2cjcc",
+                "linking_id": "2cjcc",
+                "name": "Workman"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 8.7,
+            "formatted_comparison_price": "$14.95",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$8.70",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 8.7,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.9,
+                    "count": 181
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "52826557",
+        "original_tcin": "52826557",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 12,
+                "department_id": 59
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/little-leaders-bold-women-in-black-history-by-vashti-harrison-hardcover/-/A-52826557",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_d6312ef4-7629-4a95-8ca7-1eb9580909b3"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-12-1430",
+            "mmbv_content": {
+                "street_date": "2017-12-05"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Little Leaders : Bold Women in Black History - by Vashti Harrison (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 8.9 Inches (H) x 7.4 Inch (W) x .5 Inch (D)",
+                    "<B>Weight:</B> .84 Pounds",
+                    "<B>Suggested Age:</B> 9-12 Years",
+                    "<B>Number of Pages:</B> 87",
+                    "<B>Genre:</B> Juvenile Nonfiction",
+                    "<B>Sub-Genre:</B> History",
+                    "<B>Publisher:</B> Little Brown & Co",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Vashti Harrison",
+                    "<B>Featured book lists:</B> New York Times Bestsellers",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/hachette-book-group/-/N-832yj",
+                "linking_id": "832yj",
+                "name": "Hachette Book Group"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 9.39,
+            "formatted_current_price": "$9.39",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 9.39,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.93,
+                    "count": 115
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "76458739",
+        "original_tcin": "76458739",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 12,
+                "department_id": 59
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/little-legends-exceptional-men-in-black-history-by-vashti-harrison-hardcover/-/A-76458739",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_104ce290-bbc7-4803-970e-78cd40428913"
+                }
+            },
+            "compliance": {},
+            "dpci": "059-12-7881",
+            "mmbv_content": {
+                "street_date": "2019-11-18"
+            },
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Little Legends: Exceptional Men in Black History - by Vashti Harrison (Hardcover)",
+                "bullet_descriptions": [
+                    "<B>Dimensions (Overall):</B> 8.9 Inches (H) x 7.6 Inch (W) x .4 Inch (D)",
+                    "<B>Weight:</B> .88 Pounds",
+                    "<B>Suggested Age:</B> 9-12 Years",
+                    "<B>Number of Pages:</B> 96",
+                    "<B>Genre:</B> Juvenile Nonfiction",
+                    "<B>Sub-Genre:</B> Biography & Autobiography",
+                    "<B>Publisher:</B> Little, Brown Books for Young Readers",
+                    "<B>Format:</B> Hardcover",
+                    "<B>Author:</B> Vashti Harrison",
+                    "<B>Featured book lists:</B> New York Times Bestsellers",
+                    "<B>Book theme:</B> Historical",
+                    "<B>Language:</B> English"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Books",
+                    "type": "300751"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "READERLINK DIST SVCS LLC",
+                    "id": "3094424"
+                },
+                {
+                    "vendor_name": "Ingram Content Group",
+                    "id": "1984790"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/hachette-book-group/-/N-832yj",
+                "linking_id": "832yj",
+                "name": "Hachette Book Group"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 9.39,
+            "formatted_comparison_price": "$17.99",
+            "formatted_comparison_price_type": "MSRP",
+            "formatted_current_price": "$9.39",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 9.39,
+            "location_id": 3991
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.94,
+                    "count": 97
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "87436022",
+        "original_tcin": "87436022",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 9,
+                "department_id": 71
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/partake-gluten-free-vegan-soft-baked-lemon-cookies-5-5oz/-/A-87436022",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_00d10294-aa1b-41df-96ef-2f5142b715e2",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_cafcd297-ab29-45a7-b294-49e4333d05c0",
+                        "https://target.scene7.com/is/image/Target/GUEST_bc5a939c-24e3-49c9-a400-0561371f3bab",
+                        "https://target.scene7.com/is/image/Target/GUEST_94ceb79e-98fb-406a-bffa-28cc71a7024a",
+                        "https://target.scene7.com/is/image/Target/GUEST_847f1cca-22e1-48f7-a843-9ddb83062451",
+                        "https://target.scene7.com/is/image/Target/GUEST_dca1840b-7299-4045-b371-60ebb6085938"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_cb2098a1-71c3-4010-b056-0da0f3e42ce1_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "071-09-0553",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Partake Gluten Free Vegan Soft Baked Lemon Cookies - 5.5oz",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+                    "<B>State of Readiness:</B> Ready to Eat",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 5.5 Ounces"
+                ]
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Cookies and Bars",
+                    "type": "437740"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "Partake goods Inc.",
+                    "id": "1990109"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/partake/-/N-q643ledeymn",
+                "linking_id": "q643ledeymn",
+                "name": "Partake"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 4.89,
+            "formatted_current_price": "$4.89",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.89",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 4.89,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.07,
+                    "count": 152,
+                    "secondary_averages": [
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 3.79
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 3.3
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 3.48
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "87436055",
+        "original_tcin": "87436055",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 9,
+                "department_id": 71
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/partake-gluten-free-vegan-soft-baked-snickerdoodle-cookies-5-5oz/-/A-87436055",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a4f4ac4e-3b9d-4985-a5df-504aedacb633",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_125f9895-6145-4c94-8f13-5b402c17ec14",
+                        "https://target.scene7.com/is/image/Target/GUEST_2d185416-e36d-4fda-aa88-22e16150ac1b",
+                        "https://target.scene7.com/is/image/Target/GUEST_3e30d7f0-b8a5-4a50-8ebf-279532fbc53f",
+                        "https://target.scene7.com/is/image/Target/GUEST_ad25e2b5-85a3-4fca-9642-98e1174727a1"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_7b338622-6b49-4b22-ba3a-d7d812638c73_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "071-09-0565",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Partake Gluten Free Vegan Soft Baked Snickerdoodle Cookies - 5.5oz",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+                    "<B>State of Readiness:</B> Ready to Eat",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 5.5 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "&quot;Certified gluten free and vegan",
+                        "School safe, nut free, dairy free, and egg free",
+                        "Certified non-gmo and kosher",
+                        "Produced in a dedicated top 9 allergen free facility&quot;"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Cookies and Bars",
+                    "type": "437740"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "Partake goods Inc.",
+                    "id": "1990109"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/partake/-/N-q643ledeymn",
+                "linking_id": "q643ledeymn",
+                "name": "Partake"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 4.89,
+            "formatted_current_price": "$4.89",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.89",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 4.89,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.16,
+                    "count": 68,
+                    "secondary_averages": [
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 4.27
+                        },
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 4.31
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.81
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "79473870",
+        "original_tcin": "79473870",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 9,
+                "department_id": 71
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/partake-gluten-free-vegan-chocolate-chip-cookies-5-5oz/-/A-79473870",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_dc417a42-6bf7-4495-b01a-78a07031349b",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_fe348118-486b-44e3-9c9e-d7af1b98af63",
+                        "https://target.scene7.com/is/image/Target/GUEST_ef027df5-d70d-4b37-84a0-8eaf9325f6b4",
+                        "https://target.scene7.com/is/image/Target/GUEST_b5ce8fad-cee8-489a-b654-95dfe89a672f",
+                        "https://target.scene7.com/is/image/Target/GUEST_1b857fbc-2386-41d9-b6fa-3f49bf3a2010",
+                        "https://target.scene7.com/is/image/Target/GUEST_3faebcca-0fbd-41d5-a55d-817ef833dd1c"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_0bdcef88-90f5-4f6e-ab27-7dffe5a47065_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "071-09-1367",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Partake Gluten Free Vegan Chocolate Chip Cookies - 5.5oz",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+                    "<B>State of Readiness:</B> Ready to Eat",
+                    "<B>Features:</B> Vegan, Non-GMO",
+                    "<B>Dietary Needs:</B> Gluten-Free, Non-GMO Project Verified, Vegan, Certified Gluten-Free, Kosher",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 5.5 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Certified gluten free and vegan",
+                        "School safe, nut free, dairy free, and egg free",
+                        "Certified non-gmo and kosher",
+                        "Produced in a dedicated top 9 allergen free facility"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Cookies and Bars",
+                    "type": "437740"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "Partake goods Inc.",
+                    "id": "1990109"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/partake/-/N-q643ledeymn",
+                "linking_id": "q643ledeymn",
+                "name": "Partake"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 4.89,
+            "formatted_current_price": "$4.89",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.89",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 4.89,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.32,
+                    "count": 1215,
+                    "secondary_averages": [
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 4.01
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 3.85
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.14
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "84720898",
+        "original_tcin": "84720898",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 9,
+                "department_id": 71
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": true
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/junita-39-s-jar-mini-cookie-snack-pack-brown-sugar-oatmeal-4oz/-/A-84720898",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_33d2d252-ea61-4b9a-9b68-6754247daf58",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_21ff07b9-520e-4899-88e7-83110da7ee73",
+                        "https://target.scene7.com/is/image/Target/GUEST_c87ccba2-fc7b-406d-87b4-330f8f93712d",
+                        "https://target.scene7.com/is/image/Target/GUEST_f80d2b42-6b14-4349-8e74-f453e27d3c47",
+                        "https://target.scene7.com/is/image/Target/GUEST_32495d8c-076a-47b9-ac78-e5a0769483a4"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_26860752-2ae4-4981-a2ab-8d6ff9f2d138_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {
+                "is_snap_eligible": true
+            },
+            "dpci": "071-09-0393",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Junita&#39;s Jar Mini Cookie Snack Pack Brown Sugar Oatmeal - 4oz",
+                "bullet_descriptions": [
+                    "<B>Contains:</B> Milk, Eggs, Wheat",
+                    "<B>State of Readiness:</B> Ready to Eat",
+                    "<B>Form:</B> Pieces",
+                    "<B>Package Quantity:</B> 1",
+                    "<B>Net weight:</B> 4 Ounces",
+                    "<B>Country of Origin:</B> United States"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Bite sized and baked to a delicious, buttery crunch these brown sugar oatmeal cookies are a perfect treat at school, work or home",
+                        "One 4 oz snack pack of Junita\u2019s Jar mini brown sugar oatmeal cookies",
+                        "Made with premium ingredients and does not contain artificial flavors, colors or preservatives",
+                        "Available in recloseable snack packs that are perfect for on-the-go snacking",
+                        "Made from family recipes, Junita\u2019s Jar brown sugar oatmeal cookies are a perfect addition to a sweet and savory party tray",
+                        "Mission-driven cookie company dedicated to supporting and empowering women"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Snack and Trail Mixes",
+                    "type": "116022315"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "Junita's Jar, LLC",
+                    "id": "2000824"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/junita-s-jar/-/N-q643let4h6k",
+                "linking_id": "q643let4h6k",
+                "name": "Junita's Jar"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 4.99,
+            "formatted_current_price": "$4.99",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$1.25",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 4.99,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.92,
+                    "count": 25,
+                    "secondary_averages": [
+                        {
+                            "id": "Taste",
+                            "label": "taste",
+                            "value": 5.0
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 5.0
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 5.0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "87246137",
+        "original_tcin": "87246137",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Variation Child",
+            "relationship_type_code": "VC",
+            "merchandise_classification": {
+                "class_id": 0,
+                "department_id": 52
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-lip-bar-vegan-matte-liquid-lipstick-rich-auntie-0-24-fl-oz/-/A-87246137",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_6fe888cc-6a35-4107-97b8-6552c07acd7f",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_49439bf2-a25e-4e2f-8620-02cc10119657",
+                        "https://target.scene7.com/is/image/Target/GUEST_99222b3d-e4f2-489d-940b-d54e6c6eaf1b",
+                        "https://target.scene7.com/is/image/Target/GUEST_a1611eaf-9e24-428d-aeb5-447cf94878d4",
+                        "https://target.scene7.com/is/image/Target/GUEST_0ea6b259-86b9-45d9-a0d4-6c597ab8ea72"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_a24f7e0a-f092-4ef6-86c9-624758e38a3f_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    },
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_606b2532-9f6f-41f1-82ac-ac0a5d382843_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    },
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_58f7ac84-e488-4ec7-9ed4-3ab6f926196e_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    },
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_f86b2318-e1b0-419a-8c4f-722e9251161a_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    },
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_850974d0-0a90-4a0b-9c33-ead3c139ce38_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "052-00-2363",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "The Lip Bar Vegan Matte Liquid Lipstick - Rich Auntie - 0.24 fl oz",
+                "bullet_descriptions": [
+                    "<B>Suggested Age:</B> 18 Years and Up",
+                    "<B>Color Finish:</B> Matte",
+                    "<B>Color Palette:</B> Medium Tones",
+                    "<B>Product Form:</B> Tube",
+                    "<B>Beauty Purpose:</B> Smoothing",
+                    "<B>Net weight:</B> .24 fl oz (US)"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Transformative liquid to matte formula",
+                        "Goes on like a gloss, dries down matte",
+                        "High pigment, one swipe color pay-off",
+                        "Long-lasting",
+                        "Comfy to wear with a weightless feel",
+                        "Infused with jojoba oil and Vitamin E",
+                        "Vegan & Cruelty-free"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Lip Makeup",
+                    "type": "250776"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "SCHOLLS, INC.",
+                    "id": "4181116"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/the-lip-bar/-/N-hw51c",
+                "linking_id": "hw51c",
+                "name": "The Lip Bar"
+            }
+        },
+        "parent": {
+            "__typename": "ParentProductSummary",
+            "tcin": "51757470",
+            "item": {
+                "is_limited_time_offer": false,
+                "relationship_type": "Variation Parent",
+                "relationship_type_code": "VAP",
+                "merchandise_classification": {
+                    "class_id": 0,
+                    "department_id": 52
+                },
+                "eligibility_rules": {},
+                "enrichment": {
+                    "buy_url": "https://www.target.com/p/the-lip-bar-vegan-matte-liquid-lipstick-0-24-fl-oz/-/A-51757470",
+                    "images": {
+                        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_408b8a72-d900-4c91-b3a3-18430835fe60",
+                        "alternate_image_urls": [
+                            "https://target.scene7.com/is/image/Target/GUEST_13d2ba3c-d6c2-41a0-8fa0-4a8bc353b1fd",
+                            "https://target.scene7.com/is/image/Target/GUEST_9e77e91f-5dc4-4ed3-bfc0-05cdcb8933de"
+                        ]
+                    },
+                    "videos": [
+                        {
+                            "is_list_page_eligible": false,
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_a24f7e0a-f092-4ef6-86c9-624758e38a3f_Flash9_Autox720p_2600k"
+                                }
+                            ]
+                        },
+                        {
+                            "is_list_page_eligible": false,
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_606b2532-9f6f-41f1-82ac-ac0a5d382843_Flash9_Autox720p_2600k"
+                                }
+                            ]
+                        },
+                        {
+                            "is_list_page_eligible": false,
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_58f7ac84-e488-4ec7-9ed4-3ab6f926196e_Flash9_Autox720p_2600k"
+                                }
+                            ]
+                        },
+                        {
+                            "is_list_page_eligible": false,
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_f86b2318-e1b0-419a-8c4f-722e9251161a_Flash9_Autox720p_2600k"
+                                }
+                            ]
+                        },
+                        {
+                            "is_list_page_eligible": false,
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_850974d0-0a90-4a0b-9c33-ead3c139ce38_Flash9_Autox720p_2600k"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "has_extended_sizing": false,
+                "cart_add_on_threshold": 35.0,
+                "product_description": {
+                    "title": "The Lip Bar Vegan Matte Liquid Lipstick - 0.24 fl oz",
+                    "bullet_descriptions": [
+                        "<B>Suggested Age:</B> All Ages",
+                        "<B>Health Facts:</B> Vegan",
+                        "<B>Color Finish:</B> Matte",
+                        "<B>Color Palette:</B> Medium Tones",
+                        "<B>Product Form:</B> Liquid",
+                        "<B>Sustainability Claims:</B> Cruelty-Free",
+                        "<B>Beauty Purpose:</B> Brightening",
+                        "<B>Features:</B> High Pigment Density, Long Lasting"
+                    ],
+                    "soft_bullets": {
+                        "bullets": [
+                            "Make sure your lips are prepped!",
+                            "Gently exfoliate and apply a moisturizing balm if you need to! Just be sure to blot off any excess oils.",
+                            "Start by carefully tracing the lines of your outer lips first, then fill the rest in.",
+                            "Wait a few seconds for the lipstick to dry and done!"
+                        ]
+                    }
+                },
+                "product_classification": {
+                    "item_type": {
+                        "name": "Lip Makeup",
+                        "type": "250776"
+                    }
+                },
+                "primary_brand": {
+                    "canonical_url": "/b/the-lip-bar/-/N-hw51c",
+                    "linking_id": "hw51c",
+                    "name": "The Lip Bar"
+                },
+                "ribbons": [
+                    "New At Target"
+                ]
+            },
+            "promotions": [],
+            "price": {
+                "formatted_current_price": "$13.99",
+                "formatted_current_price_type": "reg"
+            },
+            "ratings_and_reviews": {
+                "statistics": {
+                    "rating": {
+                        "average": 4.52,
+                        "count": 848,
+                        "secondary_averages": [
+                            {
+                                "id": "Quality",
+                                "label": "quality",
+                                "value": 4.42
+                            },
+                            {
+                                "id": "LongLasting",
+                                "label": "long lasting",
+                                "value": 4.4
+                            },
+                            {
+                                "id": "easyToRemove",
+                                "label": "easy to remove",
+                                "value": 4.11
+                            },
+                            {
+                                "id": "Value",
+                                "label": "value",
+                                "value": 4.29
+                            },
+                            {
+                                "id": "EasyToApply",
+                                "label": "easy to apply",
+                                "value": 4.69
+                            }
+                        ]
+                    }
+                }
+            },
+            "variation_summary": {
+                "themes": [
+                    {
+                        "name": "Color",
+                        "has_swatch": true,
+                        "swatches": [
+                            {
+                                "value": "Bawse Lady",
+                                "first_child": {
+                                    "tcin": "52860820",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_612252a5-f7ec-4306-be10-9a96dd381cc6",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_9b3cc515-a827-4e1d-b3da-2ae8c0950eec",
+                                        "https://target.scene7.com/is/image/Target/GUEST_eafffda1-fbe0-48ed-b186-9add693cdbd3",
+                                        "https://target.scene7.com/is/image/Target/GUEST_3191a390-e9b0-4567-a242-88cdf36f097e",
+                                        "https://target.scene7.com/is/image/Target/GUEST_66a61858-51ff-4f45-8182-dd52992ca5ce"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_612252a5-f7ec-4306-be10-9a96dd381cc6?cropN=0.48,0.75,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Boy Trouble",
+                                "first_child": {
+                                    "tcin": "52860826",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_97616249-0b35-4c5b-868f-7ec3a39ddbca",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_0ea53093-fc9a-4b6c-b93b-be9584590001",
+                                        "https://target.scene7.com/is/image/Target/GUEST_38c22990-7a45-411a-9e94-3bce2b324d2e",
+                                        "https://target.scene7.com/is/image/Target/GUEST_69263fc1-af9f-4aa7-9dcd-250280574cfa",
+                                        "https://target.scene7.com/is/image/Target/GUEST_b0d72623-6f8d-4dc2-b1c6-ca831dade23c"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_97616249-0b35-4c5b-868f-7ec3a39ddbca?cropN=0.48,0.74,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Savage",
+                                "first_child": {
+                                    "tcin": "52860824",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_b9b89d38-1b88-4670-a943-a5d623b5080b",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_02c9de5b-3f02-4042-b416-e167c773ddb6",
+                                        "https://target.scene7.com/is/image/Target/GUEST_18d63349-0849-421b-bb1d-ef84b6648f38",
+                                        "https://target.scene7.com/is/image/Target/GUEST_adf91037-5f36-4063-9c4c-56c8ca6e9349",
+                                        "https://target.scene7.com/is/image/Target/GUEST_8bd45b89-a811-41d6-8148-11ace0e8f6d7"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=89,39,27"
+                                }
+                            },
+                            {
+                                "value": "Curlfriend",
+                                "first_child": {
+                                    "tcin": "52860822",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_4f48c618-ccf8-4912-877e-d10ee90cc2cd",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_26d5e2b7-f784-4b75-bff0-e48c40754769",
+                                        "https://target.scene7.com/is/image/Target/GUEST_66a61858-51ff-4f45-8182-dd52992ca5ce"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_b416e905-c4b1-4309-83f1-fda9e27c3075"
+                                }
+                            },
+                            {
+                                "value": "Drama Queen",
+                                "first_child": {
+                                    "tcin": "52860819",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_91d9c44d-70ac-476b-9541-d00c2e09255f",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_a16d51d1-16f4-4aed-903f-417dc40560ce",
+                                        "https://target.scene7.com/is/image/Target/GUEST_e8ffb19d-1c1c-4d44-8e62-756e8a148287",
+                                        "https://target.scene7.com/is/image/Target/GUEST_2114611a-2c37-431d-8fc1-6030cb411f74",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f4e24449-f9b3-4036-9922-7257e30b3deb"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_7ebefd88-0a6d-4ef6-85ac-d9a728aef185?cropN=0.45,0.45,0.1,0.1&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Haute Mess",
+                                "first_child": {
+                                    "tcin": "53332048",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_a7e8044d-245b-4535-822c-65e6e3301a5d",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_2599ac67-bc46-4e4f-9c21-ccbf5db98ca1",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f93b45f2-e333-42b6-8c61-6e9964dc1a68",
+                                        "https://target.scene7.com/is/image/Target/GUEST_75326777-e34d-44f4-8d8e-47a4b2a88ebb",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f4e24449-f9b3-4036-9922-7257e30b3deb"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_a7e8044d-245b-4535-822c-65e6e3301a5d?cropN=0.48,0.74,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Hot Mama",
+                                "first_child": {
+                                    "tcin": "76594918",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_8d4ae21a-a39f-4b69-bb9b-4d95c484e8db",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_07320589-6a8d-4972-9003-c432cd694171",
+                                        "https://target.scene7.com/is/image/Target/GUEST_cfc6e4fb-7e27-4e26-b503-cb25ca87468b",
+                                        "https://target.scene7.com/is/image/Target/GUEST_aba8f238-f001-41ca-ad5d-18f9d9f33fa6",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f4e24449-f9b3-4036-9922-7257e30b3deb"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_8d4ae21a-a39f-4b69-bb9b-4d95c484e8db?cropN=0.47,0.74,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Prima Donna",
+                                "first_child": {
+                                    "tcin": "52860821",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_874f5ec9-2fa3-4a4d-9e35-2cadc63b011f",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_3516c580-4764-424f-afe4-9ff45357e12b",
+                                        "https://target.scene7.com/is/image/Target/GUEST_cc7f74ee-4fff-4086-9a85-9d573b095bcd",
+                                        "https://target.scene7.com/is/image/Target/GUEST_149d68d3-8078-4bdd-97d9-9857cc97e0db",
+                                        "https://target.scene7.com/is/image/Target/GUEST_66a61858-51ff-4f45-8182-dd52992ca5ce"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_874f5ec9-2fa3-4a4d-9e35-2cadc63b011f?cropN=0.48,0.52,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Rebel",
+                                "first_child": {
+                                    "tcin": "52860828",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_6f3ca40c-07ef-4684-a5f9-346998a9947d",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_30d43261-464b-4613-94d7-148d41b7d119",
+                                        "https://target.scene7.com/is/image/Target/GUEST_607921e8-32aa-4ba9-be8d-0f874b74d7eb",
+                                        "https://target.scene7.com/is/image/Target/GUEST_911bc494-0a2d-433d-86cf-a9aec68d69b5",
+                                        "https://target.scene7.com/is/image/Target/GUEST_edf9c875-54fa-4e37-a184-4da67c805826"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=77,11,9"
+                                }
+                            },
+                            {
+                                "value": "Unimpressed",
+                                "first_child": {
+                                    "tcin": "52860827",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_e5759102-2f49-46a6-b34a-aae4a836330d",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_a5549c62-f6b4-4f1c-ba68-065f9dc3ee9f",
+                                        "https://target.scene7.com/is/image/Target/GUEST_78fc7f14-6a0c-4957-b5f1-2fa04cf03123",
+                                        "https://target.scene7.com/is/image/Target/GUEST_b698111e-44f8-43e3-9072-ef110e5a8f9e",
+                                        "https://target.scene7.com/is/image/Target/GUEST_b3036e07-e494-45ea-bf4a-fe2403f8ffb5"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=172,94,97"
+                                }
+                            },
+                            {
+                                "value": "Low Key",
+                                "first_child": {
+                                    "tcin": "80837583",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_8c7745d5-7722-4ef6-b09c-bf1ca7821774",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_d0c159b3-f51f-486f-846d-430668c6628f",
+                                        "https://target.scene7.com/is/image/Target/GUEST_07ef19d1-9498-40cc-9087-b3314f54f349",
+                                        "https://target.scene7.com/is/image/Target/GUEST_81c9a8fd-a80c-4b81-b152-5cf80a7d9e84",
+                                        "https://target.scene7.com/is/image/Target/GUEST_3975da24-4913-4a0e-aa23-7b16187e008c"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_3e8e7d77-8f28-4b64-a4fc-6a8ad33a451f?cropN=0.45,0.45,0.1,0.1&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "It Girl",
+                                "first_child": {
+                                    "tcin": "87246140",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_21e670da-a321-4233-9618-1c6b946f7fa1",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_f0f2eadc-c249-440b-aba7-aea6fb3b5a8d",
+                                        "https://target.scene7.com/is/image/Target/GUEST_d6222bf1-8e2e-423a-b841-26a7315a07b0",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f4e24449-f9b3-4036-9922-7257e30b3deb"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_21e670da-a321-4233-9618-1c6b946f7fa1?cropN=0.48,0.47,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Naturalista",
+                                "first_child": {
+                                    "tcin": "87246139",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_c7c947ae-2b56-4525-8441-225a49aa6414",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_afd72f45-099a-45d8-a50f-05dc8d0abc23",
+                                        "https://target.scene7.com/is/image/Target/GUEST_8d4c45ef-c39a-4e80-bc69-fe5f2c7cef8a",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f4e24449-f9b3-4036-9922-7257e30b3deb"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_c7c947ae-2b56-4525-8441-225a49aa6414?cropN=0.45,0.45,0.1,0.1&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Siren",
+                                "first_child": {
+                                    "tcin": "87246138",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_166ef21c-7eab-4211-a12d-96b304941495",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_05e6abde-a3cc-4657-9b49-618235712a5d",
+                                        "https://target.scene7.com/is/image/Target/GUEST_c422a10e-f96c-4b43-87e2-b1e2d204f90a",
+                                        "https://target.scene7.com/is/image/Target/GUEST_1fb21006-f285-4e35-b7d4-1ddacdfc710f"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/GUEST_166ef21c-7eab-4211-a12d-96b304941495?cropN=0.48,0.8,0.05,0.05&sizeN=150,150"
+                                }
+                            },
+                            {
+                                "value": "Rich Auntie",
+                                "first_child": {
+                                    "tcin": "87246137",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_6fe888cc-6a35-4107-97b8-6552c07acd7f",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_49439bf2-a25e-4e2f-8620-02cc10119657",
+                                        "https://target.scene7.com/is/image/Target/GUEST_99222b3d-e4f2-489d-940b-d54e6c6eaf1b",
+                                        "https://target.scene7.com/is/image/Target/GUEST_a1611eaf-9e24-428d-aeb5-447cf94878d4",
+                                        "https://target.scene7.com/is/image/Target/GUEST_0ea6b259-86b9-45d9-a0d4-6c597ab8ea72"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=114,4,51"
+                                }
+                            },
+                            {
+                                "value": "Back to Black",
+                                "first_child": {
+                                    "tcin": "89134123",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_416accb1-e53e-438c-a990-678af5860f17",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_022f01a2-6867-4e74-bfa3-503f8d368154",
+                                        "https://target.scene7.com/is/image/Target/GUEST_4fe81357-2331-435c-b75b-bcb363119d07",
+                                        "https://target.scene7.com/is/image/Target/GUEST_8f805281-3945-4306-9d11-bdb4012e86a3",
+                                        "https://target.scene7.com/is/image/Target/GUEST_12679460-87d9-4df7-9856-31d9eb996705",
+                                        "https://target.scene7.com/is/image/Target/GUEST_efa39e6b-f0e1-48a9-8fe6-2a5ecb735b62",
+                                        "https://target.scene7.com/is/image/Target/GUEST_4c4f6e83-3c0b-4b56-b891-34940203726b",
+                                        "https://target.scene7.com/is/image/Target/GUEST_d18f5cb8-0362-4b54-a444-0256d310528a"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=44,44,46"
+                                }
+                            },
+                            {
+                                "value": "Muse",
+                                "first_child": {
+                                    "tcin": "89396846",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_f1ebb9c0-0b82-4491-95db-2d5b5848cdca",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_e704f722-da71-4ece-90b1-3cec4f72f28f",
+                                        "https://target.scene7.com/is/image/Target/GUEST_ac8698e1-b5f1-4fa7-bb36-7b855a495734",
+                                        "https://target.scene7.com/is/image/Target/GUEST_81aacb6c-c44b-44d6-b3b6-4080faf833d3",
+                                        "https://target.scene7.com/is/image/Target/GUEST_dd0f1143-f69f-4226-92e6-529cae717286",
+                                        "https://target.scene7.com/is/image/Target/GUEST_0289b2ac-92bc-40b6-a2e3-f42703153900",
+                                        "https://target.scene7.com/is/image/Target/GUEST_dcebcdf8-7556-4f82-80c1-44b29cc01ee4"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=170,4,74"
+                                }
+                            },
+                            {
+                                "value": "Commando",
+                                "first_child": {
+                                    "tcin": "89396834",
+                                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_7329cc15-525b-4d4e-900e-00fb479ca229",
+                                    "alternate_image_urls": [
+                                        "https://target.scene7.com/is/image/Target/GUEST_53764bdc-b9dd-45bb-8764-fae6d65c7453",
+                                        "https://target.scene7.com/is/image/Target/GUEST_7258523a-dcec-4023-ad42-ea257d9562c1",
+                                        "https://target.scene7.com/is/image/Target/GUEST_8efb2bbd-33f3-4f0b-a99a-764d16b6899b",
+                                        "https://target.scene7.com/is/image/Target/GUEST_17b398b1-2bc4-4626-915e-d58b90c69d6d",
+                                        "https://target.scene7.com/is/image/Target/GUEST_4217d8ed-6754-4804-8821-3e8341a4f0ff",
+                                        "https://target.scene7.com/is/image/Target/GUEST_494dfb88-9c85-460b-9a0f-65d8ce536493",
+                                        "https://target.scene7.com/is/image/Target/GUEST_f4e24449-f9b3-4036-9922-7257e30b3deb"
+                                    ],
+                                    "swatch_image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=195,139,124"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 13.99,
+            "formatted_current_price": "$13.99",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$58.29",
+            "formatted_unit_price_suffix": "/fluid ounce",
+            "reg_retail": 13.99,
+            "location_id": 1771
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "86919226",
+        "original_tcin": "86919226",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Collection Child",
+            "relationship_type_code": "CC",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-doux-bee-girl-curl-enhancer-16-fl-oz/-/A-86919226",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_acdab836-f014-43cb-9c09-efadeee31b5b",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_c20a6cfe-d66d-4802-a4af-f68dc36f338f",
+                        "https://target.scene7.com/is/image/Target/GUEST_6e93cb12-4551-4207-bbaa-834db112c3d5",
+                        "https://target.scene7.com/is/image/Target/GUEST_25bab9d7-6446-44ca-b3e7-be91769fa04d"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_aeddcdaa-0f45-4b3d-8b95-81563e77d2d5_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-3524",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "The Doux Bee-Girl Curl Enhancer - 16 fl oz",
+                "bullet_descriptions": [
+                    "<B>Hair Type:</B> All Hair Types, Textured, Curly",
+                    "<B>Product Form:</B> Liquid",
+                    "<B>Beauty Purpose:</B> Curl Enhancing",
+                    "<B>Net weight:</B> 16 fl oz (US)"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Hydrates, protects & defines curls",
+                        "No crunch or flaky residue",
+                        "Juicy, bouncy, soft curls",
+                        "Boosts shine, seals in moisture & fights frizz"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Curl Enhancers",
+                    "type": "452606"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "ULTRA/STANDARD DISTRIBUTO",
+                    "id": "1204601"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/the-doux/-/N-pmp9m",
+                "linking_id": "pmp9m",
+                "name": "The Doux"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 13.69,
+            "formatted_current_price": "$13.69",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$0.86",
+            "formatted_unit_price_suffix": "/fluid ounce",
+            "reg_retail": 13.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 3.99,
+                    "count": 225,
+                    "secondary_averages": [
+                        {
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 3.79
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 3.66
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 3.86
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "86919274",
+        "original_tcin": "86919274",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-doux-bee-girl-curl-foam-7-fl-oz/-/A-86919274",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_81055ba0-586c-4866-9c29-fbac8d0d3362",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_623d0460-d679-40c9-b6c1-f0c8a37c9cc4",
+                        "https://target.scene7.com/is/image/Target/GUEST_b95e295f-4574-4adb-9a2c-49fe4c2e26ab",
+                        "https://target.scene7.com/is/image/Target/GUEST_62309109-6b89-4311-84d3-ad7d8c6f87c9",
+                        "https://target.scene7.com/is/image/Target/GUEST_ed938ce5-972f-49c3-a892-0565dc908e21",
+                        "https://target.scene7.com/is/image/Target/GUEST_9a998e66-38e2-4bde-b044-3e56db3bd390"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_aeddcdaa-0f45-4b3d-8b95-81563e77d2d5_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-2730",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "The Doux Bee-Girl Curl Foam - 7 fl oz",
+                "bullet_descriptions": [
+                    "<B>Hair Type:</B> All Hair Types, Textured",
+                    "<B>Product Form:</B> Foam",
+                    "<B>Beauty Purpose:</B> Curl Enhancing",
+                    "<B>Net weight:</B> 7 fl oz (US)"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "ALL IN 1 Styler conditions, detangles & defines styles",
+                        "No frizz or flaking",
+                        "Hydrates, protects, and defines all hair types",
+                        "Boosts shine, seals in moisture & fights frizz"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Curl Enhancers",
+                    "type": "452606"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "ULTRA/STANDARD DISTRIBUTO",
+                    "id": "1204601"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/the-doux/-/N-pmp9m",
+                "linking_id": "pmp9m",
+                "name": "The Doux"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 13.69,
+            "formatted_current_price": "$13.69",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$1.96",
+            "formatted_unit_price_suffix": "/fluid ounce",
+            "reg_retail": 13.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.49,
+                    "count": 364,
+                    "secondary_averages": [
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.42
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 4.25
+                        },
+                        {
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 4.33
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "80215430",
+        "original_tcin": "80215430",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/the-doux-fresh-leave-in-conditioner-8-fl-oz/-/A-80215430",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_5a1271cd-a1bc-4041-9ce6-4f238ef4426e",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_dfad7d77-e313-479a-b9bc-76375fd26ae7"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_611aad5d-71cf-405d-be6c-e65dc12113d9_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-4794",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "The Doux Fresh Leave-In Conditioner - 8 fl oz",
+                "bullet_descriptions": [
+                    "<B>Scent:</B> Citrus",
+                    "<B>Hair Type:</B> All Hair Types, Textured",
+                    "<B>Product Form:</B> Cream",
+                    "<B>Beauty Purpose:</B> Conditioning",
+                    "<B>Net weight:</B> 8 fl oz (US)"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Hydrates and restores moisture and elasticity to dry curls",
+                        "Conditions, detangles, and \u201cre-sets\u201d frizzy hair.",
+                        "Versatile formula doubles as a leave-in conditioner",
+                        "Perfect for a mid-week pick-me-up"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Shampoos and Conditioners",
+                    "type": "114313310"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "ULTRA/STANDARD DISTRIBUTO",
+                    "id": "1204601"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/the-doux/-/N-pmp9m",
+                "linking_id": "pmp9m",
+                "name": "The Doux"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 13.69,
+            "formatted_current_price": "$13.69",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 13.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.33,
+                    "count": 205,
+                    "secondary_averages": [
+                        {
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 4.5
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 4.36
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.43
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "14441332",
+        "original_tcin": "14441332",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Collection Child",
+            "relationship_type_code": "CC",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/camille-rose-curl-maker-12oz/-/A-14441332",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_81e87226-6d32-4920-a5fa-f2631e977913",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_679b3fb2-8468-41f4-8a21-69de6c9d8ff7",
+                        "https://target.scene7.com/is/image/Target/GUEST_465d079d-b1dd-4641-a931-1d1f31aa71d1",
+                        "https://target.scene7.com/is/image/Target/GUEST_6d4496c1-133e-4828-84fb-fd831f9143fc"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_3c1536cd-6ebe-4689-8fa4-5cb052da6cf3_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-1225",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Camille Rose Curl Maker - 12oz",
+                "bullet_descriptions": [
+                    "<B>Hair Type:</B> Textured, All Hair Types",
+                    "<B>Health Facts:</B> Phthalate-Free, Sodium Lauryl Sulfate-Free, Formaldehyde-Free, Contains Coconut, Nonylphenol Ethoxylate Free, Propylparaben-Free, Dye-Free, Aluminum-Free, Formaldehyde Donor-Free, Butylparaben-Free, Sulfate-Free",
+                    "<B>Product Form:</B> Gel",
+                    "<B>Sustainability Claims:</B> Cruelty-Free",
+                    "<B>Beauty Purpose:</B> Curl Enhancing",
+                    "<B>Net weight:</B> 12 Ounces",
+                    "<B>Features:</B> Lightweight"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "We incorporated natural hydrator Marshmallow Root into our beauty recipe to help detangle and moisturize hair for hair retention and a finish.",
+                        "We whisk our jelly Curl Maker and infuse it with Nettle Root to ease and prevent scalp inflammation.",
+                        "We want every style to be defined, but soft and smooth, so we\u2019ve added notes of Agave Extract, which are natural humectants to fight even the frizziest hair for long \u2013 lasting curls.",
+                        "Easy to use for wash-n-go styling"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Curl Enhancers",
+                    "type": "452606"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "ULTRA/STANDARD DISTRIBUTO",
+                    "id": "1204601"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/camille-rose/-/N-q643lehpjyy",
+                "linking_id": "q643lehpjyy",
+                "name": "Camille Rose"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 19.79,
+            "formatted_current_price": "$19.79",
+            "formatted_current_price_type": "reg",
+            "formatted_unit_price": "$1.65",
+            "formatted_unit_price_suffix": "/ounce",
+            "reg_retail": 19.79,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.29,
+                    "count": 364,
+                    "secondary_averages": [
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 3.57
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.26
+                        },
+                        {
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 4.19
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "14441512",
+        "original_tcin": "14441512",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Collection Child",
+            "relationship_type_code": "CC",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": false
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/camille-rose-curl-love-moisture-milk-8oz/-/A-14441512",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_00e9119c-bf56-44ac-89db-1f42b8723e85",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_57461748-99b3-4f2c-bb91-8c2b8f54518c",
+                        "https://target.scene7.com/is/image/Target/GUEST_242b964f-5fad-4a90-8479-804f2a7627a2"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_3c1536cd-6ebe-4689-8fa4-5cb052da6cf3_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-1222",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Camille Rose Curl Love Moisture Milk - 8oz",
+                "bullet_descriptions": [
+                    "<B>Hair Type:</B> Textured, All Hair Types",
+                    "<B>Health Facts:</B> Sodium Lauryl Sulfate-Free, Sulfate-Free, Butylparaben-Free, Dye-Free, Formaldehyde Donor-Free, Propylparaben-Free, Phthalate-Free, Aluminum-Free, Contains Avocado, Formaldehyde-Free, Nonylphenol Ethoxylate Free",
+                    "<B>Product Form:</B> Cream",
+                    "<B>Sustainability Claims:</B> Cruelty-Free",
+                    "<B>Includes:</B> Conditioner, Hair Styling Product",
+                    "<B>Beauty Purpose:</B> Moisturizing",
+                    "<B>Net weight:</B> 8 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "Perfect for reducing weakened and damaged hair, Rice Milk is a top ingredient in our Curl Love mixture. It\u2019s fortified with powerful proteins, and vitamins B, C , E to strengthen the hair\u2019s shaft and extend growth.",
+                        "Rich in antioxidants, Olive oil helps maintain scalp and hair health while preventing clogged follicles and dandruff.",
+                        "Revitalize your hair with Rose Hip\u2014a superior protector against environmental damage, dehydration and hair loss.",
+                        "Protect your hair from heat damage, shedding and breakage"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Hair Treatments",
+                    "type": "250731"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "ULTRA/STANDARD DISTRIBUTO",
+                    "id": "1204601"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/camille-rose/-/N-q643lehpjyy",
+                "linking_id": "q643lehpjyy",
+                "name": "Camille Rose"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 14.69,
+            "formatted_current_price": "$14.69",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 14.69,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.48,
+                    "count": 459,
+                    "secondary_averages": [
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.33
+                        },
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 3.98
+                        },
+                        {
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 4.12
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "__typename": "ProductSummary",
+        "tcin": "51165788",
+        "original_tcin": "51165788",
+        "item": {
+            "is_limited_time_offer": false,
+            "relationship_type": "Stand Alone",
+            "relationship_type_code": "SA",
+            "merchandise_classification": {
+                "class_id": 5,
+                "department_id": 63
+            },
+            "eligibility_rules": {
+                "add_on": {
+                    "is_active": false
+                },
+                "scheduled_delivery": {
+                    "is_active": true
+                }
+            },
+            "enrichment": {
+                "buy_url": "https://www.target.com/p/camille-rose-moroccan-pear-conditioning-custard-12oz/-/A-51165788",
+                "images": {
+                    "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_624f19cc-8438-4683-be72-0686b839e1c8",
+                    "alternate_image_urls": [
+                        "https://target.scene7.com/is/image/Target/GUEST_ea3a47c5-9723-4b98-8910-4e12214be142",
+                        "https://target.scene7.com/is/image/Target/GUEST_92cb50d4-15ab-4b8d-970a-910d49ae4aae"
+                    ]
+                },
+                "videos": [
+                    {
+                        "is_list_page_eligible": false,
+                        "video_files": [
+                            {
+                                "mime_type": "video/mp4",
+                                "video_url": "https://target.scene7.com/is/content/Target/GUEST_3c1536cd-6ebe-4689-8fa4-5cb052da6cf3_Flash9_Autox720p_2600k"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "compliance": {},
+            "dpci": "063-05-1921",
+            "cart_add_on_threshold": 35.0,
+            "product_description": {
+                "title": "Camille Rose Moroccan Pear Conditioning Custard - 12oz",
+                "bullet_descriptions": [
+                    "<B>Hair Type:</B> Textured, All Hair Types",
+                    "<B>Health Facts:</B> Sodium Lauryl Sulfate-Free, Sulfate-Free, Butylparaben-Free, Dye-Free, Formaldehyde Donor-Free, Propylparaben-Free, Phthalate-Free, Aluminum-Free, Formaldehyde-Free, Nonylphenol Ethoxylate Free, Vegan",
+                    "<B>Product Form:</B> Cream",
+                    "<B>Sustainability Claims:</B> Cruelty-Free",
+                    "<B>Beauty Purpose:</B> Shine Enhancing, Moisturizing",
+                    "<B>Net weight:</B> 12 Ounces"
+                ],
+                "soft_bullets": {
+                    "bullets": [
+                        "This natural hair conditioner is perfect for providing daily nourishment to any curl pattern",
+                        "Hydrates and nourishes hair for shiny, healthy results",
+                        "Made with Moroccan pear and cherry kernel extracts to give hair a healthy dose of vitamins, this creamy conditioner also features fast-absorbing jojoba and coconut oils for extra moisture",
+                        "Enhances the shine within your hair"
+                    ]
+                }
+            },
+            "product_classification": {
+                "item_type": {
+                    "name": "Shampoos and Conditioners",
+                    "type": "114313310"
+                }
+            },
+            "product_vendors": [
+                {
+                    "vendor_name": "ULTRA/STANDARD DISTRIBUTO",
+                    "id": "1204601"
+                }
+            ],
+            "fulfillment": {},
+            "primary_brand": {
+                "canonical_url": "/b/camille-rose/-/N-q643lehpjyy",
+                "linking_id": "q643lehpjyy",
+                "name": "Camille Rose"
+            }
+        },
+        "promotions": [],
+        "price": {
+            "current_retail": 12.59,
+            "formatted_current_price": "$12.59",
+            "formatted_current_price_type": "reg",
+            "reg_retail": 12.59,
+            "location_id": 1771
+        },
+        "ratings_and_reviews": {
+            "statistics": {
+                "rating": {
+                    "average": 4.56,
+                    "count": 254,
+                    "secondary_averages": [
+                        {
+                            "id": "Value",
+                            "label": "value",
+                            "value": 4.0
+                        },
+                        {
+                            "id": "Quality",
+                            "label": "quality",
+                            "value": 4.31
+                        },
+                        {
+                            "id": "Effectiveness",
+                            "label": "effectiveness",
+                            "value": 4.21
+                        }
+                    ]
+                }
+            }
+        }
     }
-}
+]

@@ -1,28 +1,9 @@
-import aiohttp
 import asyncio
-import async_timeout
 from aiohttp import ClientResponseError, ClientConnectionError
 import secrets
 import random
+from requests_html import AsyncHTMLSession
 
-params = {
-    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
-    "category": "4xq89",
-    "channel": "WEB",
-    "count": "24",
-    "default_purchasability_filter": "true",
-    "include_dmc_dmr": "true",
-    "include_sponsored": "true",
-    "new_search": "false",
-    "offset": "0",
-    "page": "/c/4xq89",
-    "platform": "desktop",
-    "pricing_store_id": "1771",
-    "store_ids": "1771",
-    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "visitor_id": "018E80561A130201ABA6237C959E4080",
-    "zip": "52404"
-}
 
 headers = {
     "accept": "application/json",
@@ -43,41 +24,52 @@ class Response:
         
     
             
-    async def content(self, isUserAgent=False, max_retries: int = 3, ) -> str:
+    async def content(self, params=None, max_retries: int = 3) -> str:
         """
-        Fetch content from a URL with retries. After encountering specific errors,
-        pause for a long duration before retrying.
+        Fetch content from a URL with retries using AsyncHTMLSession from requests-html.
+        After encountering specific errors, pause for a long duration before retrying.
         
+        :param base_url: The base URL to fetch content from.
+        :param headers: Headers to include in the request.
+        :param params: Parameters to include in the request.
         :param max_retries: Maximum number of retries for the request.
         :return: The content of the response, if successful. None otherwise.
         """
-                
+        session = AsyncHTMLSession()
+
         user_agent = user_agents()
         headers["User-Agent"] = user_agent
-        params["useragent"] = user_agent
+        if params:
+            params["useragent"] = user_agent
         
-        async with aiohttp.ClientSession() as session:
-            for attempt in range(1, max_retries + 1):
-                try:
-                    async with async_timeout.timeout(10):  # Timeout for each request
-                        async with session.get(self.base_url,
-                                               headers=headers, 
-                                               params=params) as response:
-                            response.raise_for_status()  # Raises error for 4xx/5xx responses
-                            return await response.text()  # Correctly await the text of the response
-                except (ClientConnectionError, ClientResponseError) as e:
-                    print(f"Attempt {attempt} failed due to connection issue: {e}")
-                except Exception as e:
-                    print(f"Unexpected error: {e}")
-
+        
+        for attempt in range(1, max_retries + 1):            
+            await asyncio.sleep(30)            
+            try:
+                
+                # Perform the GET request
+                response = await session.get(self.base_url, headers=headers,
+                                             params=params,
+                                             proxies={
+                                                "http": rotate_proxies(),
+                                                "https": rotate_proxies()
+                                             })
+                
+                # Check for HTTP errors
+                response.raise_for_status()
+                
+                # Return the HTML content of the page
+                return response
+            except Exception as e:  # Catching a broad exception for simplicity, refine as needed
+                print(f"Attempt {attempt} failed: {e}")
                 if attempt < max_retries:
-                    sleep_time = random.randint(600, 900)  # Between 10 to 15 minutes
+                    sleep_time = random.randint(600, 900)  # 10 to 15 minutes
                     print(f"Pausing for {sleep_time / 60} minutes before next attempt.")
                     await asyncio.sleep(sleep_time)
                 else:
                     print("Max retries reached. Giving up.")
                     return None
-                        
+                            
 def random_values(d_lists):
     """
     Returns a random value from a list.
@@ -100,4 +92,12 @@ def user_agents():
     with open('tools//user-agents.txt') as f:
         agents = f.read().split("\n")
         return random_values(agents)
+    
+def rotate_proxies():
+    proxies = []
+    with open("./proxies.txt", "r") as file:
+        proxies = file.readlines()
+        
+    random_proxy = random_values(proxies)
+    return f"http://{random_proxy}"
     
