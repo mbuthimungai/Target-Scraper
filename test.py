@@ -18,7 +18,7 @@ visitor_id = generate_hashed_visitor_id()
 url = "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2"
 params = {
     "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
-    "category": "q8v16",
+    "category": "4slzs",
     "channel": "WEB",
     "count": 24,
     "default_purchasability_filter": True,
@@ -26,8 +26,9 @@ params = {
     "include_sponsored": True,
     "new_search": False,
     "offset": 0,
-    "page": "/c/q8v16",
+    "page": "/c/4slzs",
     "platform": "desktop",
+    "sort_by": "newest",
     "pricing_store_id": 1771,
     "store_ids": "1771,1768,1113,3374,1792",
     "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
