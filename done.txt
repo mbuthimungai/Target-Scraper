@@ -1,0 +1,258 @@
+2024-04-07 21:55:05,688:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmu
+2024-04-07 21:55:31,156:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbz
+2024-04-07 21:56:03,688:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy5
+2024-04-07 21:56:12,077:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmkZbaha0s4ycyy
+2024-04-07 21:56:13,693:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: fups0
+2024-04-07 21:56:22,099:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 56ho4ZetlotZ2l8te
+2024-04-07 21:56:22,551:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 6uf32
+2024-04-07 21:56:27,368:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt13Zyfqzk
+2024-04-07 21:56:33,474:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4ssac
+2024-04-07 21:56:35,284:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 0091p
+2024-04-07 21:56:35,295:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: ys08h
+2024-04-07 21:56:37,154:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 55vh9
+2024-04-07 21:56:41,523:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4y52e
+2024-04-07 21:56:50,728:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmlZ56fu5Z5y6q6
+2024-04-07 21:56:54,424:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4tglt
+2024-04-07 21:56:57,211:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5j6q6
+2024-04-07 21:57:04,725:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy1
+2024-04-07 21:57:05,708:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsz7
+2024-04-07 21:57:06,757:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZmyjc5Zb0ysiZgup4zc5xkwvZ5y715
+2024-04-07 21:57:07,245:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtm6
+2024-04-07 21:57:09,257:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtnaZ5y6q6Z5y70hZ5y746Z5y6ndZ5y67tZ5y759Z5y73rZ5xrh3Z55iviZ5y76nZ5y6hbZ5y76dZ5y713Z5y72c
+2024-04-07 21:57:10,615:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmp
+2024-04-07 21:57:11,510:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: eopy9
+2024-04-07 21:57:11,521:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbjZfn27k
+2024-04-07 21:57:14,489:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: f7azc
+2024-04-07 21:57:17,663:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: yytex
+2024-04-07 21:57:17,677:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtnb
+2024-04-07 21:57:19,505:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4uez2
+2024-04-07 21:57:19,756:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtcz
+2024-04-07 21:57:20,463:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: g9mtaZe93kmZs1qzoZ9oscrZb0ysiZk7a0tZ19eu4Z23qlt
+2024-04-07 21:57:20,727:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 551po
+2024-04-07 21:57:21,248:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbjZpsi0f
+2024-04-07 21:57:21,479:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmn
+2024-04-07 21:57:22,283:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtwj
+2024-04-07 21:57:22,413:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5q0fdZbaha0s4y744
+2024-04-07 21:57:25,264:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: tp9m7Zbrlxn
+2024-04-07 21:57:25,478:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 54vrs
+2024-04-07 21:57:26,428:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4ydo1
+2024-04-07 21:57:26,662:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbl
+2024-04-07 21:57:28,404:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5ouvjZue4sm
+2024-04-07 21:57:28,951:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmvZ79ge3
+2024-04-07 21:57:29,798:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: a479c
+2024-04-07 21:57:31,316:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtn7
+2024-04-07 21:57:31,328:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZs1qzo
+2024-04-07 21:57:31,339:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 55md3Zutz7b
+2024-04-07 21:57:31,667:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt0m
+2024-04-07 21:57:33,690:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtn2
+2024-04-07 21:57:33,701:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xszh
+2024-04-07 21:57:36,059:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZ9oscr
+2024-04-07 21:57:36,064:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtcdZ6dz9g
+2024-04-07 21:57:36,069:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: s6y8p
+2024-04-07 21:57:36,538:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtcdZnzum
+2024-04-07 21:57:36,542:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmjZ5y68j
+2024-04-07 21:57:37,278:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4skdt
+2024-04-07 21:57:37,444:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtndZbaha0s5y77v
+2024-04-07 21:57:37,575:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt0o
+2024-04-07 21:57:38,284:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: zomk2
+2024-04-07 21:57:38,288:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 9qjryZ5y750Z5xrh3
+2024-04-07 21:57:38,300:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbjZ75vat
+2024-04-07 21:57:38,508:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 56dbk
+2024-04-07 21:57:38,750:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: rb4pu
+2024-04-07 21:57:39,413:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtby
+2024-04-07 21:57:39,452:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: a3dpa
+2024-04-07 21:57:39,784:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4y2xwZfo87bqov5agZrg0dh
+2024-04-07 21:57:40,333:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4tgi2
+2024-04-07 21:57:40,515:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZmyjc5Zb0ysiZ5y715Zgup4zc5xkwh
+2024-04-07 21:57:40,746:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 54v3e
+2024-04-07 21:57:40,757:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmtZsnvhi
+2024-04-07 21:57:40,775:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmi
+2024-04-07 21:57:40,780:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: tp9m7Z5y6q6Z5y761Z5y746
+2024-04-07 21:57:40,789:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 55mcz
+2024-04-07 21:57:41,329:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbx
+2024-04-07 21:57:41,598:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtcdZl2mrd
+2024-04-07 21:57:41,764:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy8
+2024-04-07 21:57:41,769:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: aepz6
+2024-04-07 21:57:41,784:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 9qjryZ5y72c
+2024-04-07 21:57:42,381:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xszb
+2024-04-08 06:40:01,820:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: c5lky
+2024-04-08 06:40:02,624:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbjZ47usm
+2024-04-08 06:40:07,989:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 56ho4ZetlotZ2l8te
+2024-04-08 06:40:10,105:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtd3Zugl2jZ251l86zpdzcZ251l86vet6bZ251l86qe4v8Zdq4mn
+2024-04-08 06:40:12,610:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4tglw
+2024-04-08 06:40:15,844:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtwj
+2024-04-08 06:40:38,635:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 9qjryZ5y76n
+2024-04-08 06:40:43,028:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZk7a0t
+2024-04-08 06:41:00,644:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4y29r
+2024-04-08 06:41:16,123:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: pw7udZdkdskZplarfZr74zcZqwg3rZ8m4ypZ1okr1Zal25lfbywti
+2024-04-08 06:41:45,128:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5ouvjZipjkpfvet6b
+2024-04-08 06:41:46,132:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: qqz02
+2024-04-08 06:42:14,634:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xty8
+2024-04-08 06:42:18,627:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: zomk2
+2024-04-08 06:42:28,129:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtcb
+2024-04-08 06:42:32,669:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 54wac
+2024-04-08 06:42:45,661:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmtZmqoyu
+2024-04-08 06:42:46,846:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5q0fdZbaha0s5y77v
+2024-04-08 06:42:47,848:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmlZ56fu5Z5xxph
+2024-04-08 06:42:49,118:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5j6q6
+2024-04-08 06:42:49,171:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtcgZky6rmms7lov
+2024-04-08 06:42:49,690:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbt
+2024-04-08 06:42:49,871:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtndZbaha0s5y77v
+2024-04-08 06:42:51,186:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 73ryh
+2024-04-08 06:42:52,075:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4y7p3
+2024-04-08 06:42:55,929:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4tgi6
+2024-04-08 06:43:09,151:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 2dpp9
+2024-04-08 06:43:10,116:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmaZrby8qZnn30tZ6rzsaZs99f3Zal25lfhaqaeZotqs3Zal25lfzxgw1
+2024-04-08 06:43:10,684:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZmyjc5Zb0ysiZ5y715Zgup4zc5xkto
+2024-04-08 06:43:11,151:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 55md3Zal25lfvmow0Z608e6Ztd7bzZal25lf7uo19
+2024-04-08 06:43:16,141:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 55md2
+2024-04-08 06:43:17,655:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: vazqx
+2024-04-08 06:43:17,666:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtbbZbwm7k
+2024-04-08 06:43:17,927:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy5
+2024-04-08 06:43:19,212:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtc4
+2024-04-08 06:43:19,695:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmi
+2024-04-08 06:43:19,963:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yqqeZmyjc5Zb0ysiZgup4zc5xkwvZ5y715Z5y73bZ5v4hr
+2024-04-08 06:56:04,660:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: j768y
+2024-04-08 06:57:14,217:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtm0Zakkos
+2024-04-08 06:57:16,506:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtuvZakkos
+2024-04-08 06:57:17,641:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtv5Zakkos
+2024-04-08 06:57:18,540:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 7ex1s
+2024-04-08 06:57:20,199:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 56gjrZakkos
+2024-04-08 08:06:00,667:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt0rZakkos
+2024-04-08 08:06:01,802:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xt0rZakkos
+2024-04-08 08:06:03,029:INFO:Store scraped: Coralville (ID: 1113), Category Code: 5xt0rZakkos
+2024-04-08 08:06:04,361:INFO:Store scraped: Iowa City Downtown (ID: 3374), Category Code: 5xt0rZakkos
+2024-04-08 08:06:05,489:INFO:Store scraped: Waterloo (ID: 1792), Category Code: 5xt0rZakkos
+2024-04-08 08:06:06,615:INFO:Store scraped: Cedar Falls (ID: 2526), Category Code: 5xt0rZakkos
+2024-04-08 08:06:07,852:INFO:Store scraped: Dubuque (ID: 86), Category Code: 5xt0rZakkos
+2024-04-08 08:06:09,787:INFO:Store scraped: Davenport (ID: 533), Category Code: 5xt0rZakkos
+2024-04-08 08:06:11,220:INFO:Store scraped: SW Moline (ID: 926), Category Code: 5xt0rZakkos
+2024-04-08 08:06:12,555:INFO:Store scraped: Burlington (ID: 860), Category Code: 5xt0rZakkos
+2024-04-08 08:06:13,890:INFO:Store scraped: Galesburg (ID: 891), Category Code: 5xt0rZakkos
+2024-04-08 08:06:15,203:INFO:Store scraped: Altoona (ID: 1939), Category Code: 5xt0rZakkos
+2024-04-08 08:06:16,342:INFO:Store scraped: Ankeny (ID: 1767), Category Code: 5xt0rZakkos
+2024-04-08 08:06:17,878:INFO:Store scraped: Ames (ID: 1170), Category Code: 5xt0rZakkos
+2024-04-08 08:06:19,613:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy9Zakkos
+2024-04-08 08:06:20,834:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xsy9Zakkos
+2024-04-08 08:06:22,170:INFO:Store scraped: Coralville (ID: 1113), Category Code: 5xsy9Zakkos
+2024-04-08 08:06:23,809:INFO:Store scraped: Iowa City Downtown (ID: 3374), Category Code: 5xsy9Zakkos
+2024-04-08 08:06:25,024:INFO:Store scraped: Waterloo (ID: 1792), Category Code: 5xsy9Zakkos
+2024-04-08 08:07:51,144:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt0rZakkos
+2024-04-08 08:07:52,387:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xt0rZakkos
+2024-04-08 08:07:53,544:INFO:Store scraped: Coralville (ID: 1113), Category Code: 5xt0rZakkos
+2024-04-08 08:07:54,727:INFO:Store scraped: Iowa City Downtown (ID: 3374), Category Code: 5xt0rZakkos
+2024-04-08 08:07:55,855:INFO:Store scraped: Waterloo (ID: 1792), Category Code: 5xt0rZakkos
+2024-04-08 08:07:57,094:INFO:Store scraped: Cedar Falls (ID: 2526), Category Code: 5xt0rZakkos
+2024-04-08 08:07:58,311:INFO:Store scraped: Dubuque (ID: 86), Category Code: 5xt0rZakkos
+2024-04-08 08:07:59,462:INFO:Store scraped: Davenport (ID: 533), Category Code: 5xt0rZakkos
+2024-04-08 08:08:00,666:INFO:Store scraped: SW Moline (ID: 926), Category Code: 5xt0rZakkos
+2024-04-08 08:08:01,903:INFO:Store scraped: Burlington (ID: 860), Category Code: 5xt0rZakkos
+2024-04-08 08:08:03,074:INFO:Store scraped: Galesburg (ID: 891), Category Code: 5xt0rZakkos
+2024-04-08 08:08:04,479:INFO:Store scraped: Altoona (ID: 1939), Category Code: 5xt0rZakkos
+2024-04-08 08:08:05,729:INFO:Store scraped: Ankeny (ID: 1767), Category Code: 5xt0rZakkos
+2024-04-08 08:08:06,885:INFO:Store scraped: Ames (ID: 1170), Category Code: 5xt0rZakkos
+2024-04-08 08:08:08,157:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy9Zakkos
+2024-04-08 08:08:09,271:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xsy9Zakkos
+2024-04-08 08:08:10,542:INFO:Store scraped: Coralville (ID: 1113), Category Code: 5xsy9Zakkos
+2024-04-08 08:14:41,542:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt0rZakkos
+2024-04-08 08:14:42,786:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xt0rZakkos
+2024-04-08 08:14:43,896:INFO:Store scraped: Coralville (ID: 1113), Category Code: 5xt0rZakkos
+2024-04-08 08:14:45,029:INFO:Store scraped: Iowa City Downtown (ID: 3374), Category Code: 5xt0rZakkos
+2024-04-08 08:14:46,349:INFO:Store scraped: Waterloo (ID: 1792), Category Code: 5xt0rZakkos
+2024-04-08 08:14:47,594:INFO:Store scraped: Cedar Falls (ID: 2526), Category Code: 5xt0rZakkos
+2024-04-08 08:14:48,807:INFO:Store scraped: Dubuque (ID: 86), Category Code: 5xt0rZakkos
+2024-04-08 08:14:50,059:INFO:Store scraped: Davenport (ID: 533), Category Code: 5xt0rZakkos
+2024-04-08 08:14:51,286:INFO:Store scraped: SW Moline (ID: 926), Category Code: 5xt0rZakkos
+2024-04-08 08:14:52,621:INFO:Store scraped: Burlington (ID: 860), Category Code: 5xt0rZakkos
+2024-04-08 08:14:53,949:INFO:Store scraped: Galesburg (ID: 891), Category Code: 5xt0rZakkos
+2024-04-08 08:14:55,176:INFO:Store scraped: Altoona (ID: 1939), Category Code: 5xt0rZakkos
+2024-04-08 11:23:30,539:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: bo9qm
+2024-04-08 11:23:30,639:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4vpabZakkos
+2024-04-08 11:23:30,756:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: s2bht
+2024-04-08 11:26:12,359:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtnlZakkos
+2024-04-08 11:26:17,182:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 7ex1s
+2024-04-09 14:33:01,439:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5514vZ3hjdu
+2024-04-09 14:35:42,609:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 21vc7
+2024-04-09 14:35:57,747:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtvbZakkos
+2024-04-09 14:36:16,643:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsyrZakkos
+2024-04-09 14:36:17,319:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtorZakkos
+2024-04-09 14:36:44,577:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xte8Zakkos
+2024-04-09 14:37:09,902:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xttpZakkos
+2024-04-09 14:37:48,711:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 8w79z
+2024-04-09 14:38:12,325:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtf2Zakkos
+2024-04-09 14:38:45,789:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsz0Zakkos
+2024-04-09 14:38:54,077:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 551ssZakkos
+2024-04-09 14:40:01,174:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4rgj3Zakkos
+2024-04-09 14:40:12,028:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: ywh7oZ5zlb2Zawp9w
+2024-04-09 14:40:40,124:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 6702e
+2024-04-09 14:41:11,842:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xu09Zakkos
+2024-04-09 14:41:12,148:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 7rsqx
+2024-04-09 14:41:21,883:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: k3use
+2024-04-09 14:41:36,459:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4ynw0Zakkos
+2024-04-09 14:42:03,360:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: eyn85
+2024-04-09 14:42:11,196:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: vpf7w
+2024-04-09 14:42:18,804:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtvoZ5tdv0
+2024-04-09 14:42:19,098:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 2xfev
+2024-04-09 14:42:35,991:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: a8imvZgode4Z7pldeZt98v0Zd5953
+2024-04-09 14:42:51,437:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtu4Zakkos
+2024-04-09 14:43:53,069:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xu07Zakkos
+2024-04-09 14:44:22,585:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtu8Zakkos
+2024-04-09 14:44:51,537:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: b8wk5
+2024-04-09 14:45:27,929:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xu07Zakkos
+2024-04-09 14:45:40,403:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: bo9qm
+2024-04-09 14:45:46,489:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtteZakkos
+2024-04-09 14:45:59,321:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4y61qZakkos
+2024-04-09 14:46:46,320:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 8w79z
+2024-04-09 14:47:26,672:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmoZakkos
+2024-04-09 14:48:12,556:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 048rl
+2024-04-09 14:48:44,249:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: hyjgb
+2024-04-09 14:50:11,157:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: utkyk
+2024-04-09 14:50:31,183:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4slznZvdy4oZlucm565o21u
+2024-04-09 14:51:56,774:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: a8imvZgode4Z7pldeZt98v0Zd5953
+2024-04-09 14:52:05,436:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 79ix5
+2024-04-09 14:52:27,230:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtpnZakkos
+2024-04-09 14:53:51,304:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmrZakkos
+2024-04-09 14:54:17,959:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsy9Zakkos
+2024-04-09 14:54:30,461:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xt4gZakkos
+2024-04-09 14:55:05,572:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: z86ia
+2024-04-09 14:55:33,572:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4yi9qZakkos
+2024-04-09 14:56:40,030:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xttnZakkos
+2024-04-09 14:57:18,688:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xte8Zakkos
+2024-04-09 14:57:56,453:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 4z0vr
+2024-04-09 14:58:01,655:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xu1mZakkos
+2024-04-09 14:58:03,438:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 341z6
+2024-04-09 14:59:27,444:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: onep8
+2024-04-09 14:59:33,303:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: ywh7oZ7tqnkZ5zlb1
+2024-04-09 14:59:45,695:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtv5Zakkos
+2024-04-09 15:00:32,012:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 1cv06Z4ynx8
+2024-04-09 15:00:58,957:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xtmrZakkos
+2024-04-09 15:01:18,796:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 4rgj3Zakkos
+2024-04-09 15:01:58,003:INFO:Store scraped: Coralville (ID: 1113), Category Code: 8w79z
+2024-04-09 15:02:08,800:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5514vZ3hjdu
+2024-04-09 15:02:12,076:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtv1Zakkos
+2024-04-09 15:02:24,824:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: ywh7oZ5zlb1Zawp9w
+2024-04-09 15:03:04,880:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: a8imvZsi0w9Z9wytiZo2xvb
+2024-04-09 15:03:08,018:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtuvZakkos
+2024-04-09 15:03:48,691:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: jme0l
+2024-04-09 15:04:41,167:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtmfZakkos
+2024-04-09 15:04:55,835:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtm7Zakkos
+2024-04-09 15:05:02,990:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtegZakkos
+2024-04-09 15:05:28,785:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: tv7qhZakkos
+2024-04-09 15:05:44,200:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 7rsqx
+2024-04-09 15:06:17,171:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 5xtvoZ5tdv0
+2024-04-09 15:07:16,322:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 1cv06Z4ynx8
+2024-04-09 15:07:25,323:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: hx1h0
+2024-04-09 15:07:34,753:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: vpf7w
+2024-04-09 15:07:50,318:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: qdrhm
+2024-04-09 15:08:10,045:INFO:Store scraped: Coralville (ID: 1113), Category Code: 7rsqx
+2024-04-09 15:08:10,894:INFO:Store scraped: Coralville (ID: 1113), Category Code: 5514vZ3hjdu
+2024-04-09 15:09:48,263:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtuwZakkos
+2024-04-09 15:10:08,416:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xsyjZakkos
+2024-04-09 15:10:40,899:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 551ssZakkos
+2024-04-09 15:11:49,434:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: j1lc1
+2024-04-09 15:11:52,275:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: z49s0
+2024-04-09 15:12:24,343:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: 5xtn0Zakkos
+2024-04-09 15:12:59,615:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: clwp0
+2024-04-09 15:51:13,250:INFO:Store scraped: Coralville (ID: 1113), Category Code: a8imvZgode4Z7pldeZt98v0Zd5953
+2024-04-09 16:01:45,189:INFO:Store scraped: Cedar Rapids North (ID: 1768), Category Code: 6702e
+2024-04-09 16:19:16,945:INFO:Store scraped: Cedar Rapids South (ID: 1771), Category Code: pq6yc

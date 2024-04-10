@@ -1,8 +1,13 @@
 from bs4 import BeautifulSoup
 import json
 import random
+import time
+import os
+import hashlib
 
 from tools.tools import Response
+
+
 
 params = {
     "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
@@ -16,10 +21,10 @@ params = {
     "offset": 0,
     "page": "/c/k4uyq",
     "platform": "desktop",
+    "sort_by": "newest",
     "pricing_store_id": 1771,
     "store_ids": "1771,1768,1113,3374,1792",
-    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "visitor_id": f"018EA380AB5E{random.randint(1000, 2000)}AD36B22C54BC2BBE",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",    
     "zip": "52404"
 }
 

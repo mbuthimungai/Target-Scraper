@@ -21,12 +21,38 @@
 
 from pymongo import MongoClient
 import os
+from pprint import pprint
 # Connect to MongoDB
 # Replace 'mongodb_uri' with your MongoDB URI, e.g., "mongodb://localhost:27017/"
 client = MongoClient(os.getenv("MONGODB_URL_REMOTE"))
+# db = client.admin
+
+# # This command returns the replica set status
+# status = db.command("replSetGetStatus")
+# pprint(status)
+# Getting all database names
+# Getting all database names
+# databases = client.list_database_names()
+
+# # Skip system databases
+# databases = [db for db in databases if db not in ['admin', 'local', 'config']]
+
+# # Iterating through each database and printing its size
+# for dbname in databases:
+#     db = client[dbname]
+#     try:
+#         stats = db.command("dbStats")  # Running the dbStats command on the current database
+#         database_size = stats['dataSize'] / (1024 * 1024)  # Convert from bytes to megabytes
+#         storage_size = stats['storageSize'] / (1024 * 1024)  # Convert from bytes to megabytes
+#         print(f"Database: {dbname}")
+#         print(f"Data Size (MB): {database_size:.2f}")
+#         print(f"Storage Size (MB): {storage_size:.2f}\n")
+#     except Exception as e:
+#         print(f"Could not retrieve stats for database {dbname}: {e}")
 
 # Select your database
 db = client['targetDB']
+
 
 # Select your collection
 collection = db['products']
